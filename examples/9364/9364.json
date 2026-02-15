@@ -1,0 +1,386 @@
+{
+    "schema_version": "2.0.0",
+    "exported_at": "15 February, 2026 12:25",
+    "keep_media_files": false,
+    "keep_user_data": false,
+    "data": [
+        {
+            "content_type": "courses",
+            "data": {
+                "course": {
+                    "ID": 9364,
+                    "post_author": "5",
+                    "post_date": "2026-01-28 21:52:43",
+                    "post_date_gmt": "2026-01-28 21:52:43",
+                    "post_content": "<p>For this module of the Virtual Expedition Training for DofE, Chief Scout\u2019s Platinum, Chief Scout\u2019s Diamond and King\u2019s Scout Award we\u2019re looking at some weather skills to see you right.<\/p>",
+                    "post_title": "7. Weather",
+                    "post_excerpt": "",
+                    "post_status": "publish",
+                    "comment_status": "closed",
+                    "ping_status": "closed",
+                    "post_password": "",
+                    "post_name": "weather",
+                    "to_ping": "",
+                    "pinged": "",
+                    "post_modified": "2026-01-28 21:52:43",
+                    "post_modified_gmt": "2026-01-28 21:52:43",
+                    "post_content_filtered": "",
+                    "post_parent": 0,
+                    "guid": "https:\/\/see-expeditions.org.uk\/?post_type=courses&#038;p=9364",
+                    "menu_order": 0,
+                    "post_type": "courses",
+                    "post_mime_type": "",
+                    "comment_count": "0",
+                    "filter": "raw",
+                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/weather-chart.webp",
+                    "meta": {
+                        "_tutor_course_price_type": [
+                            "free"
+                        ],
+                        "_wp_old_slug": [
+                            "new-course"
+                        ],
+                        "_tutor_course_settings": [
+                            {
+                                "maximum_students": 0,
+                                "enrollment_expiry": "",
+                                "enable_content_drip": 0,
+                                "content_drip_type": "",
+                                "enable_tutor_bp": 0,
+                                "course_enrollment_period": "no",
+                                "enrollment_starts_at": "",
+                                "enrollment_ends_at": "",
+                                "pause_enrollment": "no"
+                            }
+                        ],
+                        "_video": [
+                            []
+                        ],
+                        "_tutor_enable_qa": [
+                            "no"
+                        ],
+                        "_tutor_is_public_course": [
+                            "no"
+                        ],
+                        "tutor_course_sale_price": [
+                            "0"
+                        ],
+                        "_course_duration": [
+                            {
+                                "hours": "0",
+                                "minutes": "12"
+                            }
+                        ],
+                        "_tutor_course_level": [
+                            "all_levels"
+                        ],
+                        "_eael_post_view_count": [
+                            "31"
+                        ],
+                        "_tutor_course_started": [
+                            "1769467147"
+                        ],
+                        "_wp_old_date": [
+                            "2026-01-24",
+                            "2026-01-26",
+                            "2026-01-27"
+                        ],
+                        "_thumbnail_id": [
+                            "9478"
+                        ],
+                        "_tutor_course_benefits": [
+                            "Understand the weather in a mountain environment\r\nAssess the impact of wind chill and \"The Multiplier Effect\" on safety and morale.\r\nIdentify different types of Scottish rain and explain why cotton is unsuitable for expeditions.\r\nRecognize key cloud formations (Stratus and Cumulonimbus) and their weather implications.\r\nUtilize specialized mountain forecasts (MWIS\/Met Office) to inform route planning.\r\nEvaluate when to trigger a \"Plan B\" low-level route based on weather thresholds."
+                        ]
+                    },
+                    "taxonomies": {
+                        "categories": [
+                            {
+                                "term_id": 48,
+                                "name": "Bronze",
+                                "slug": "bronze",
+                                "term_group": 0,
+                                "term_taxonomy_id": 48,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at bronze award participants.",
+                                "parent": 0,
+                                "count": 6,
+                                "filter": "raw"
+                            },
+                            {
+                                "term_id": 50,
+                                "name": "Gold",
+                                "slug": "gold",
+                                "term_group": 0,
+                                "term_taxonomy_id": 50,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at gold award participants.",
+                                "parent": 0,
+                                "count": 7,
+                                "filter": "raw"
+                            },
+                            {
+                                "term_id": 49,
+                                "name": "Silver",
+                                "slug": "silver",
+                                "term_group": 0,
+                                "term_taxonomy_id": 49,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at silver award participants.",
+                                "parent": 0,
+                                "count": 7,
+                                "filter": "raw"
+                            }
+                        ],
+                        "tags": []
+                    },
+                    "contents": [
+                        {
+                            "ID": 9458,
+                            "post_author": "5",
+                            "post_date": "2026-01-26 21:44:49",
+                            "post_date_gmt": "2026-01-26 21:44:49",
+                            "post_content": "",
+                            "post_title": "Understanding the Weather",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "understanding-the-weather",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-01-26 21:44:49",
+                            "post_modified_gmt": "2026-01-26 21:44:49",
+                            "post_content_filtered": "",
+                            "post_parent": 9364,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/understanding-the-weather\/",
+                            "menu_order": 1,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9540,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-27 08:08:09",
+                                    "post_date_gmt": "2026-01-27 08:08:09",
+                                    "post_content": "<h2 data-path-to-node=\"2\">The Mountain Environment<\/h2><p data-pm-slice=\"1 5 []\">In the Scottish Highlands, the terrain creates its own micro-climate. Even if you aren't climbing to the very top of a Munro, your route will rise and fall and you need to understand the mountain environment.<\/p><ul><li><p><strong>The Lapse Rate:<\/strong> Temperature drops as you go up, and the rate varies according the humidity. Here are some rules of thumb:<\/p><ul><li><p><strong>Cloudy &amp; Wet:<\/strong> The temperature drops by <strong>0.5\u00b0C for every 100m<\/strong> of ascent.<\/p><\/li><li><p><strong>Clear &amp; Dry:<\/strong> The temperature drops by <strong>1\u00b0C for every 100m<\/strong> of ascent.<\/p><\/li><li><p><em>The Takeaway:<\/em> On a beautiful clear day, it actually gets cold <strong>twice as fast<\/strong> as you climb.<\/p><\/li><\/ul><\/li><li><p><strong>Planning for the Terrain:<\/strong><\/p><ul><li><p><strong>Check the Contours:<\/strong> If your route crosses many close-together contour lines, expect the wind to be stronger and the temperature to be lower.<\/p><\/li><li><p><strong>Identify Exposure:<\/strong> Look at your map. Is your path on a ridge or an open plateau? These areas have no \"windbreaks\" and will be the most exhausting parts of your day.<\/p><\/li><li><p><strong>The \"Lee\" Side:<\/strong> When planning lunch stops or campsites, look for the \"Lee\" side of a hill (the side sheltered from the prevailing wind).<\/p><\/li><\/ul><\/li><\/ul>",
+                                    "post_title": "The Mountain Environment",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "the-mountain-environment-2",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-27 08:08:09",
+                                    "post_modified_gmt": "2026-01-27 08:08:09",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9458,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/weather\/lessons\/the-mountain-environment-2\/",
+                                    "menu_order": 7,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "12"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9541,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-27 08:08:09",
+                                    "post_date_gmt": "2026-01-27 08:08:09",
+                                    "post_content": "<p data-path-to-node=\"8\">Wind is a huge factor in turning a great day into a difficult one. It doesn't just make you cold; it slows you down and makes everything harder.<\/p><ul><li><strong>Wind Chill:<\/strong> This is the \"feels like\" temperature. A\u00a010\u00b0C day with a 30mph wind feels like 5.5\u00b0C, as it literally wicks energy away from your body. This drains your body\u2019s core temperature and your energy reserves.<\/li><li><strong>Wind makes life harder<\/strong><ul><li>20-30mph: Hard work. You'll need to shout to be heard.<\/li><li>40-50mph: Dangerous for DofE. Gusts will knock you off balance, especially with a heavy 65L rucksack.<\/li><\/ul><\/li><li><strong>The Venturi Effect<\/strong>: Wind accelerates when forced through narrow gaps. A steady breeze in the valley can become a gale-force wind as it \"funnels\" through a narrow glen or over a pass.<\/li><li><strong>The Multiplier Effect:<\/strong><ul><li><strong>Wind + Sun:<\/strong> Strong winds can mask the heat of the sun. You won't feel yourself burning until it's too late. Keep the suncream on!<\/li><li><strong>Wind + Rain<\/strong>: This is the \"Hypothermia Combo.\" Wind drives rain through your waterproof seals and makes \"horizontal rain\" that hits your face and eyes, making navigation nearly a lot harder.<\/li><\/ul><\/li><li><strong>Decision Fatigue<\/strong>: Fighting the wind while carrying a heavy 65L rucksack is exhausting. When you are tired, your navigation suffers. Many \"lost\" groups aren't bad at maps; they are just exhausted.<\/li><\/ul>",
+                                    "post_title": "Wind \u2013 The Energy Drainer",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "wind-the-energy-drainer",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-28 21:42:55",
+                                    "post_modified_gmt": "2026-01-28 21:42:55",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9458,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/weather\/lessons\/wind-the-energy-drainer-2\/",
+                                    "menu_order": 8,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "11"
+                                        ],
+                                        "_wp_old_slug": [
+                                            "wind-the-energy-drainer-2"
+                                        ],
+                                        "_thumbnail_id": [
+                                            "9478"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/weather-chart.webp"
+                                },
+                                {
+                                    "ID": 9542,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-27 08:08:09",
+                                    "post_date_gmt": "2026-01-27 08:08:09",
+                                    "post_content": "<h2 data-pm-slice=\"1 1 []\">Rain: The Morale Killer<\/h2><p>Rain in Scotland is rarely just a shower; on a DofE expedition, it is a test of your gear and your grit.<\/p><p><strong>The Danger:<\/strong> Wet clothes lose their insulation. If you get wet, your body uses massive amounts of energy just to stay warm.<\/p><p><strong>\"Cotton is Rotten\":<\/strong> Never wear cotton t-shirts or hoodies on expedition. Cotton absorbs water, stays heavy, and dries incredibly slowly. Most importantly, it stops insulating and starts sucking heat away from your body. Stick to synthetic or wool base layers.<\/p><p><strong>Types of Rain:<\/strong><\/p><ul><li><strong>\"The Clag\" (Drizzle\/Mizzle):<\/strong> Fine, persistent rain that sticks to everything and reduces visibility. Often caused by low Stratus clouds.<\/li><li><strong>Heavy Showers:<\/strong> Sharp, intense bursts of rain often followed by sun. These are common in the West.<\/li><li><strong>Horizontal Rain:<\/strong> Caused by high winds driving rain sideways. It will find every gap in your waterproofs.<\/li><\/ul><p><strong>Slippery Progress:<\/strong> Rain makes Highland rock and \"black bog\" incredibly slippery. Expect your walking speed to drop by half.<\/p><h3>Cloud Indicators: Look up!<\/h3><p><strong>Stratus:<\/strong> Low, grey, \"blanket\" clouds that bring persistent drizzle and hide your landmarks.<\/p><p><strong>Cumulonimbus:<\/strong> Towering \"anvil\" clouds. These mean heavy rain, hail, and potentially lightning.<\/p>",
+                                    "post_title": "Rain: The Morale Killer",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "rain-the-morale-killer-2",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-27 08:08:09",
+                                    "post_modified_gmt": "2026-01-27 08:08:09",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9458,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/weather\/lessons\/rain-the-morale-killer-2\/",
+                                    "menu_order": 9,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_wp_old_slug": [
+                                            "staying-dry-and-why-it-matters"
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "11"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9543,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-27 08:08:09",
+                                    "post_date_gmt": "2026-01-27 08:08:09",
+                                    "post_content": "<h2 data-pm-slice=\"1 1 []\">Sun: The Hidden Danger<\/h2><p data-pm-slice=\"1 3 []\">Clear skies look inviting, but they bring their own set of risks to a group carrying heavy kit.<\/p><ul><li><p><strong>Heat Exhaustion:<\/strong> Carrying a heavy pack in direct sun causes your core temperature to spike. You must drink more water than you think you need.<\/p><\/li><li><p><strong>The \"Clear Air\" Trap:<\/strong> Remember the Lapse Rate! A sunny valley might be 18\u00b0C, but a 600m pass will still be 12\u00b0C. Always keep a windproof layer handy.<\/p><\/li><li><p><strong>Stable but Volatile:<\/strong> High pressure usually means stable weather, but in the afternoon, the heat can build up and cause sudden, heavy \"convective\" thunderstorms.<\/p><\/li><\/ul>",
+                                    "post_title": "Sun: The Hidden Danger",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "sun-the-hidden-danger-2",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-27 08:08:09",
+                                    "post_modified_gmt": "2026-01-27 08:08:09",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9458,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/weather\/lessons\/sun-the-hidden-danger-2\/",
+                                    "menu_order": 10,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "14"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9544,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-27 08:08:09",
+                                    "post_date_gmt": "2026-01-27 08:08:09",
+                                    "post_content": "<h2 data-path-to-node=\"23\">Decoding the Forecast<\/h2><p data-path-to-node=\"23\">General weather apps (like the BBC or Apple Weather) are optimised for cities. For DofE in Scotland, you need specialist data and should use the right app.<\/p><ul><li data-path-to-node=\"24,0,0\"><b data-path-to-node=\"24,0,0\" data-index-in-node=\"0\"><a href=\"https:\/\/www.mwis.org.uk\/\">MWIS (Mountain Weather Information Service)<\/a>:<\/b> If you are hiking in upland areas, you should consult MWIS before you go out.\u00a0<\/li><li data-path-to-node=\"24,0,0\"><strong><a href=\"https:\/\/www.metoffice.gov.uk\/\">Met Office<\/a><\/strong>: The Met Office has detailed forecasts that include the \"feels like temperature\", visibility and other key information. It has mountain area and mountain summit forecasts.\u00a0<\/li><li>Check more than one forecast, as the different models used by different forecasters can yield slightly different results.<\/li><li>Modern weather forecasts are not often completely wrong. Sometimes the exact timing or intensity of the weather can change from the forecast though.<\/li><\/ul>",
+                                    "post_title": "Forecasts: Your Essential Tool",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "forecasts-your-essential-tool",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-27 08:08:40",
+                                    "post_modified_gmt": "2026-01-27 08:08:40",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9458,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/weather\/lessons\/forecasts-your-essential-toolkit-2\/",
+                                    "menu_order": 11,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "11"
+                                        ],
+                                        "_wp_old_slug": [
+                                            "decoding-the-forecast",
+                                            "forecasts-your-essential-toolkit-2"
+                                        ],
+                                        "_thumbnail_id": [
+                                            "9538"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/mwis.webp"
+                                },
+                                {
+                                    "ID": 9545,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-27 08:08:09",
+                                    "post_date_gmt": "2026-01-27 08:08:09",
+                                    "post_content": "<h2 data-pm-slice=\"1 1 []\">Decision-Making: The Life Saver<\/h2><p data-pm-slice=\"1 3 []\">The best hikers are those who know when to stay in the valley. On your DofE expedition it's your supervisor's job to keep you safe, but you should be aware of the weather and be ready for change.<\/p><ul><li><p><strong>The \"Go\/No-Go\" Line:<\/strong> If the forecast predicts gusts over 40mph or constant heavy rain, you should activate your \"Plan B.\"<\/p><\/li><li><p><strong>Plan B (The Low-Level Route):<\/strong> Every day of your expedition should have a \"Bad Weather Alternative\" that avoids high passes and stays in the shelter of the glens.<\/p><\/li><li><p><strong>The Group Check:<\/strong> In bad weather, stop every hour. Check for the \"Umbles\": Stumbling, Mumbling, Fumbling, and Grumbling. These are early signs of cold exhaustion.<\/p><\/li><li><p><strong>Be Bold, Start Cold:<\/strong> Don't start hiking in your big fleece. You'll sweat, get damp, and then freeze when you stop. Start with just a base layer and waterproof; add layers only when you stop.<\/p><\/li><\/ul>",
+                                    "post_title": "Decision-Making: The Life Saver",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "decision-making-the-life-saver-2",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-27 08:08:09",
+                                    "post_modified_gmt": "2026-01-27 08:08:09",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9458,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/weather\/lessons\/decision-making-the-life-saver-2\/",
+                                    "menu_order": 12,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "9"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                }
+                            ]
+                        }
+                    ],
+                    "child_posts": [],
+                    "attachment_links": []
+                }
+            }
+        }
+    ]
+}

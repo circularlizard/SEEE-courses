@@ -1,0 +1,1109 @@
+{
+    "schema_version": "2.0.0",
+    "exported_at": "15 February, 2026 12:25",
+    "keep_media_files": false,
+    "keep_user_data": false,
+    "data": [
+        {
+            "content_type": "courses",
+            "data": {
+                "course": {
+                    "ID": 9360,
+                    "post_author": "5",
+                    "post_date": "2026-01-28 22:05:16",
+                    "post_date_gmt": "2026-01-28 22:05:16",
+                    "post_content": "<p>For this module of the Virtual Expedition Training for DofE, Chief Scout\u2019s Platinum, Chief Scout\u2019s Diamond and King\u2019s Scout Award we\u2019re looking at the kit you\u2019ll need and how to set out your campsite.<\/p>",
+                    "post_title": "2. Kit and Campcraft",
+                    "post_excerpt": "",
+                    "post_status": "publish",
+                    "comment_status": "closed",
+                    "ping_status": "closed",
+                    "post_password": "",
+                    "post_name": "kit-and-campcraft",
+                    "to_ping": "",
+                    "pinged": "",
+                    "post_modified": "2026-01-28 22:05:16",
+                    "post_modified_gmt": "2026-01-28 22:05:16",
+                    "post_content_filtered": "",
+                    "post_parent": 0,
+                    "guid": "https:\/\/see-expeditions.org.uk\/?post_type=courses&#038;p=9360",
+                    "menu_order": 0,
+                    "post_type": "courses",
+                    "post_mime_type": "",
+                    "comment_count": "0",
+                    "filter": "raw",
+                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/camping-scaled.webp",
+                    "meta": {
+                        "_tutor_course_price_type": [
+                            "free"
+                        ],
+                        "_wp_old_slug": [
+                            "new-course"
+                        ],
+                        "_tutor_course_settings": [
+                            {
+                                "maximum_students": 0,
+                                "enrollment_expiry": "",
+                                "enable_content_drip": 0,
+                                "content_drip_type": "",
+                                "enable_tutor_bp": 0,
+                                "course_enrollment_period": "no",
+                                "enrollment_starts_at": "",
+                                "enrollment_ends_at": "",
+                                "pause_enrollment": "no"
+                            }
+                        ],
+                        "_video": [
+                            []
+                        ],
+                        "_tutor_enable_qa": [
+                            "yes"
+                        ],
+                        "_tutor_is_public_course": [
+                            "no"
+                        ],
+                        "tutor_course_sale_price": [
+                            "0"
+                        ],
+                        "_course_duration": [
+                            {
+                                "hours": "0",
+                                "minutes": "15"
+                            }
+                        ],
+                        "_tutor_course_level": [
+                            "beginner"
+                        ],
+                        "_thumbnail_id": [
+                            "9373"
+                        ],
+                        "_eael_post_view_count": [
+                            "42"
+                        ],
+                        "_tutor_course_started": [
+                            "1769294478"
+                        ],
+                        "_wp_old_date": [
+                            "2026-01-24",
+                            "2026-01-25",
+                            "2026-01-26",
+                            "2026-01-27"
+                        ],
+                        "_tutor_course_benefits": [
+                            "Where to get your kit\r\nWhat to wear\r\nManaging your camp well\r\nHow to choose where to camp"
+                        ],
+                        "tutor-course-duplicate-9360": [
+                            "1"
+                        ]
+                    },
+                    "taxonomies": {
+                        "categories": [
+                            {
+                                "term_id": 48,
+                                "name": "Bronze",
+                                "slug": "bronze",
+                                "term_group": 0,
+                                "term_taxonomy_id": 48,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at bronze award participants.",
+                                "parent": 0,
+                                "count": 6,
+                                "filter": "raw"
+                            },
+                            {
+                                "term_id": 49,
+                                "name": "Silver",
+                                "slug": "silver",
+                                "term_group": 0,
+                                "term_taxonomy_id": 49,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at silver award participants.",
+                                "parent": 0,
+                                "count": 7,
+                                "filter": "raw"
+                            }
+                        ],
+                        "tags": []
+                    },
+                    "contents": [
+                        {
+                            "ID": 9383,
+                            "post_author": "5",
+                            "post_date": "2026-01-24 21:46:50",
+                            "post_date_gmt": "2026-01-24 21:46:50",
+                            "post_content": "",
+                            "post_title": "The Kit You Need",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "the-kit-you-need",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-01-24 21:46:50",
+                            "post_modified_gmt": "2026-01-24 21:46:50",
+                            "post_content_filtered": "",
+                            "post_parent": 9360,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/the-kit-you-need\/",
+                            "menu_order": 1,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9394,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-24 22:21:56",
+                                    "post_date_gmt": "2026-01-24 22:21:56",
+                                    "post_content": "<h2 data-pm-slice=\"1 2 []\">Where to get your kit<\/h2><p data-pm-slice=\"1 2 []\">See the attached kit guide (in the \"Exercise Files\" tab) for a comprehensive guide to your expedition kit.<\/p><p data-pm-slice=\"1 2 []\">Before spending money, consider these three levels of sourcing kit to keep your budget in check.<\/p><ul><li><p><strong>Level 1: Borrowing.<\/strong> Ask friends or family for items like hats, sun cream, water bottles, or even rucksacks and tents.<\/p><ul><li><p><em>Pro Tip:<\/em> You may be able to borrow from your unit or district, don't forget to check with them.<\/p><\/li><\/ul><\/li><li><p><strong>Level 2: Use What You Have.<\/strong> Most participants already own a torch, a plastic bowl, and sports tops.<\/p><ul><li><p><em>Crucial Exception:<\/em> Avoid borrowing or buying second-hand walking boots; they have already moulded to someone else's feet and are likely to cause you pain.<\/p><\/li><\/ul><\/li><li><p><strong>Level 3: The DofE Card.<\/strong> If you must buy new, use your DofE Card (Digital or Physical) for at least 10\u201315% off at GO Outdoors, Blacks, Millets, Ultimate Outdoors, and Tiso. You can get the card here - <a href=\"https:\/\/www.dofe.org\/shop\/card\/\">https:\/\/www.dofe.org\/shop\/card\/<\/a><\/p><\/li><\/ul>",
+                                    "post_title": "Where to get your kit (the smart way)",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "where-to-get-your-kit-the-smart-way",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-24 23:28:44",
+                                    "post_modified_gmt": "2026-01-24 23:28:44",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9383,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/kit-and-campcraft\/lessons\/where-to-get-your-kit\/",
+                                    "menu_order": 0,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_thumbnail_id": [
+                                            "9396"
+                                        ],
+                                        "_wp_old_slug": [
+                                            "where-to-get-your-kit"
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "24"
+                                        ],
+                                        "_tutor_attachments": [
+                                            [
+                                                "9400"
+                                            ]
+                                        ],
+                                        "tutor-course-duplicate-9394": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/DofE-card-e1769294541172.webp"
+                                },
+                                {
+                                    "ID": 9395,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-24 22:22:05",
+                                    "post_date_gmt": "2026-01-24 22:22:05",
+                                    "post_content": "<h2 data-pm-slice=\"1 3 []\">Choosing good boots<\/h2><p data-pm-slice=\"1 3 []\">Your feet are your \"engine.\" If they fail, the expedition stops.<\/p><ul><li><p><strong>Ankle Support is Mandatory:<\/strong> For DofE expeditions, you must wear walking boots, not walking shoes or trainers. You need support to prevent your ankles from twisting under the weight of a heavy pack.<\/p><\/li><li><p><strong>The Deep Tread:<\/strong> Look for \"M-D Traction\" or deep lugs on the sole. This prevents slipping on wet grass or mud.<\/p><\/li><li><p><strong>The Fit Test:<\/strong> Wear your expedition socks when trying on boots. Slide your foot forward until your toes touch the front; you should still be able to fit one finger down behind your heel.<\/p><\/li><li><p><strong>Break Them In:<\/strong> Buy your boots months in advance. Wear them around the house, then on short walks, to avoid \"expedition-ending\" blisters.<\/p><\/li><li><strong>Act Fast:<\/strong> On your expedition, deal with any hot-spots right away, before they form into blisters that could end your expedition<\/li><\/ul><p><span style=\"color: #ff0000\"><strong>DO NOT wear trainers, walking shoes or trail running shoes.<\/strong><\/span> They lack the ankle support necessary to walk safely with an expedition pack, and your expedition supervisor may not permit you to proceed.<\/p><h2>Good socks are vital<\/h2><ul data-pm-slice=\"3 3 []\"><li><p><strong>The \"No Cotton\" Rule:<\/strong> Like clothing, socks should never be 100% cotton. Cotton holds moisture against your skin, softening it and making blisters inevitable. Use wool-blend or synthetic \"technical\" socks.<\/p><\/li><li><p><strong>Padding and Cushioning:<\/strong> Look for socks with reinforced \"shock zones\" at the heel and toe. This provides extra comfort and protection against rubbing.<\/p><\/li><li><p><strong>The Liner Strategy:<\/strong> Some people find it good to wear a thin \"liner sock\" under your main walking sock (some socks are also constructed this way). The two layers rub against each other, reducing friction on your skin. Opinions vary, but it may be worth a try.<\/p><\/li><li><p><strong>Try Them Together:<\/strong> Always wear your expedition socks when trying on boots to ensure the fit is correct.<\/p><\/li><\/ul>",
+                                    "post_title": "All about footwear",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "all-about-footwear",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-26 22:46:23",
+                                    "post_modified_gmt": "2026-01-26 22:46:23",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9383,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/kit-and-campcraft\/lessons\/all-about-footwear\/",
+                                    "menu_order": 1,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "21"
+                                        ],
+                                        "_thumbnail_id": [
+                                            "9470"
+                                        ],
+                                        "tutor-course-duplicate-9395": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/walking-boots.webp"
+                                },
+                                {
+                                    "ID": 9393,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-24 22:21:24",
+                                    "post_date_gmt": "2026-01-24 22:21:24",
+                                    "post_content": "<h2 data-pm-slice=\"1 1 []\">The 3-layer clothing system<\/h2><p data-pm-slice=\"1 1 []\">Adapting to the weather is about layers, not one big heavy coat.<\/p><ol><li><p><strong>Base Layer:<\/strong> Moisture-wicking fabric (synthetic or merino wool). This pulls sweat away from your skin so you don't get cold when you stop.<\/p><\/li><li><p><strong>Mid Layer:<\/strong> A fleece. This traps warm air. Zips are great for regulating temperature while walking.<\/p><\/li><li><p><strong>Outer Layer:<\/strong> A waterproof and breathable jacket\/trousers. \"Waterproof\" is better than \"water-resistant.\"<\/p><\/li><\/ol><p>Depending on conditions, you can wear just a base layer and your waterproof; or leave your waterproof in your bag.<\/p><p><strong>The Golden Rule: <span style=\"color: #ff0000\">NO DENIM OR COTTON. Leave your unit hoodie at home.<\/span><\/strong>\u00a0Jeans and cotton hoodies are dangerous on expeditions. They absorb water, become extremely heavy, take days to dry, and strip your body of heat, which can lead to hypothermia.<\/p><h2>Trousers<\/h2><p>The three layer system can apply to your trousers too, with the difference that in summer you may not need a base layer. Choose trousers that are made of synthetic fibres so they dry quickly.<\/p><p>You must also have waterproof trousers. Make sure they have a zip on the side so you can put them on without taking your boots off.<\/p><h2>Socks<\/h2><p>Comfortable, <strong>non-cotton<\/strong> socks are vital for a comfortable expedition. Choose warm, well padded socks that help your boots fit well.<\/p>",
+                                    "post_title": "What to wear - layering up",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "what-to-wear-layering-up",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-24 23:09:40",
+                                    "post_modified_gmt": "2026-01-24 23:09:40",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9383,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/kit-and-campcraft\/lessons\/what-to-wear\/",
+                                    "menu_order": 2,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_wp_old_slug": [
+                                            "what-to-wear"
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "20"
+                                        ],
+                                        "_thumbnail_id": [
+                                            "9398"
+                                        ],
+                                        "tutor-course-duplicate-9393": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/3-layer-clothing.webp"
+                                },
+                                {
+                                    "ID": 9384,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-24 21:48:04",
+                                    "post_date_gmt": "2026-01-24 21:48:04",
+                                    "post_content": "<h2>How to pack your rucksack<\/h2><ul data-pm-slice=\"3 3 []\"><li><p><strong>The 25% Rule:<\/strong> Your fully packed rucksack must not exceed 25% of your body weight, ideally less. (Example: If you weigh 60kg, your bag should be 15kg max).<\/p><\/li><li><p><strong>The \"Weight Distribution\" Method:<\/strong><\/p><ul><li><p><strong>Bottom:<\/strong> Lightweight, bulky items (Sleeping bag).<\/p><\/li><li><p><strong>Middle (Against your back):<\/strong> Heaviest items (Stove, fuel, heavy food).<\/p><\/li><li><p><strong>Top\/Outer Pockets:<\/strong> Essentials you need quickly (Waterproofs, map, snacks, first aid).<\/p><\/li><\/ul><\/li><li><p><strong>Waterproofing:<\/strong> Don't rely on the rain cover, assume you are going to be unpacking your kit in the wet. Compartmentalise your kit so you can take it out without individual items getting wet. Use dry bags if you have them, but plastic bags will do fine.<\/p><\/li><\/ul>",
+                                    "post_title": "How to pack your rucksack",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "how-to-pack-your-rucksack",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-24 23:26:08",
+                                    "post_modified_gmt": "2026-01-24 23:26:08",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9383,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/kit-and-campcraft\/lessons\/how-to-pack-your-rucksack\/",
+                                    "menu_order": 3,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_video": [
+                                            {
+                                                "source": "youtube",
+                                                "source_video_id": "",
+                                                "poster": "",
+                                                "poster_url": "",
+                                                "source_html5": "",
+                                                "source_external_url": "",
+                                                "source_shortcode": "",
+                                                "source_youtube": "https:\/\/www.youtube.com\/watch?v=3IZXju3H_cs",
+                                                "source_vimeo": "",
+                                                "source_embedded": "",
+                                                "runtime": {
+                                                    "hours": "00",
+                                                    "minutes": "9",
+                                                    "seconds": "12"
+                                                },
+                                                "duration_sec": "552",
+                                                "playtime": "9:12"
+                                            }
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "17"
+                                        ],
+                                        "tutor-course-duplicate-9384": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9397,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-25 09:58:50",
+                                    "post_date_gmt": "2026-01-25 09:58:50",
+                                    "post_content": "",
+                                    "post_title": "Kit quiz",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "kit-quiz",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-25 09:58:50",
+                                    "post_modified_gmt": "2026-01-25 09:58:50",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9383,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/kit-and-campcraft\/quizzes\/kit-quiz\/",
+                                    "menu_order": 4,
+                                    "post_type": "tutor_quiz",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "tutor_quiz_option": [
+                                            {
+                                                "attempts_allowed": "0",
+                                                "feedback_mode": "retry",
+                                                "hide_question_number_overview": "0",
+                                                "hide_quiz_time_display": "0",
+                                                "max_questions_for_answer": "10",
+                                                "open_ended_answer_characters_limit": "500",
+                                                "pass_is_required": "0",
+                                                "passing_grade": "80",
+                                                "question_layout_view": "single_question",
+                                                "questions_order": "rand",
+                                                "quiz_auto_start": "0",
+                                                "short_answer_characters_limit": "200",
+                                                "time_limit": {
+                                                    "time_type": "minutes",
+                                                    "time_value": "0"
+                                                }
+                                            }
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "34"
+                                        ],
+                                        "_wp_old_date": [
+                                            "2026-01-24"
+                                        ],
+                                        "tutor-course-duplicate-9397": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false,
+                                    "question_answer": [
+                                        {
+                                            "question": {
+                                                "question_id": "6",
+                                                "quiz_id": "9397",
+                                                "question_title": "Denim jeans are an acceptable choice for a Bronze expedition if the weather forecast is sunny and dry.",
+                                                "question_description": "",
+                                                "answer_explanation": null,
+                                                "question_type": "true_false",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "0",
+                                                    "question_mark": "1",
+                                                    "question_type": "true_false",
+                                                    "randomize_question": "0",
+                                                    "show_question_mark": "0"
+                                                },
+                                                "question_order": "1"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "17",
+                                                    "belongs_question_id": "6",
+                                                    "belongs_question_type": "true_false",
+                                                    "answer_title": "True",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "18",
+                                                    "belongs_question_id": "6",
+                                                    "belongs_question_type": "true_false",
+                                                    "answer_title": "False",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "7",
+                                                "quiz_id": "9397",
+                                                "question_title": "Which of the following items should you AVOID buying second-hand or borrowing?",
+                                                "question_description": "",
+                                                "answer_explanation": null,
+                                                "question_type": "multiple_choice",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "0",
+                                                    "question_mark": "1",
+                                                    "question_type": "multiple_choice",
+                                                    "randomize_question": "1",
+                                                    "show_question_mark": "0",
+                                                    "has_multiple_correct_answer": "0"
+                                                },
+                                                "question_order": "2"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "19",
+                                                    "belongs_question_id": "7",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "A waterproof jacket",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "20",
+                                                    "belongs_question_id": "7",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "A compass",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                },
+                                                {
+                                                    "answer_id": "21",
+                                                    "belongs_question_id": "7",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "Walking boots",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "3"
+                                                },
+                                                {
+                                                    "answer_id": "22",
+                                                    "belongs_question_id": "7",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "A 65-litre rucksack",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "4"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 9385,
+                            "post_author": "5",
+                            "post_date": "2026-01-24 21:55:16",
+                            "post_date_gmt": "2026-01-24 21:55:16",
+                            "post_content": "",
+                            "post_title": "How to Run a Good Camp",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "how-to-run-a-good-camp",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-01-24 21:55:16",
+                            "post_modified_gmt": "2026-01-24 21:55:16",
+                            "post_content_filtered": "",
+                            "post_parent": 9360,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/how-to-run-a-good-camp\/",
+                            "menu_order": 2,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9406,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-25 09:29:09",
+                                    "post_date_gmt": "2026-01-25 09:29:09",
+                                    "post_content": "<p>Thanks to the Bohunt Trust<\/p>",
+                                    "post_title": "Pitching and packing a tent",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "pitching-and-packing-a-tent",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-25 09:29:09",
+                                    "post_modified_gmt": "2026-01-25 09:29:09",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9385,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/kit-and-campcraft\/lessons\/pitching-and-packing-a-tent\/",
+                                    "menu_order": 0,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_video": [
+                                            {
+                                                "source": "youtube",
+                                                "source_video_id": "",
+                                                "poster": "",
+                                                "poster_url": "",
+                                                "source_html5": "",
+                                                "source_external_url": "",
+                                                "source_shortcode": "",
+                                                "source_youtube": "https:\/\/www.youtube.com\/watch?v=TJWSAd20zNA",
+                                                "source_vimeo": "",
+                                                "source_embedded": "",
+                                                "runtime": {
+                                                    "hours": "00",
+                                                    "minutes": "11",
+                                                    "seconds": "49"
+                                                },
+                                                "duration_sec": "709",
+                                                "playtime": "11:49"
+                                            }
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "17"
+                                        ],
+                                        "tutor-course-duplicate-9406": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9407,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-25 09:31:30",
+                                    "post_date_gmt": "2026-01-25 09:31:30",
+                                    "post_content": "<h2 data-pm-slice=\"1 3 []\">Selecting Your Perfect Campsite<\/h2><p>Finding the right spot to pitch your tent is the difference between a great night's sleep and a cold, damp disaster. Look for the \"Three Fs\":<\/p><ul><li><p><strong>Flat &amp; Firm:<\/strong> Your campsite must be as level as possible. Sleeping on a slope means you\u2019ll slide to the bottom of your tent all night. Ensure the ground is firm enough to hold tent pegs but not so rocky that they bend.<\/p><\/li><li><p><strong>Flow &amp; Drainage:<\/strong> Avoid the \"bottom of the bowl.\" If it rains, water will pool in hollows. Choose slightly elevated ground that allows water to drain away from your tent.<\/p><\/li><li><p><strong>Fire Safety:<\/strong> Stoves must be used on a firm, level surface at ground level. Keep your cooking area away from tent fabric and ensure the area is clear of long, dry grass.<\/p><\/li><\/ul>",
+                                    "post_title": "Selecting Your Perfect Campsite",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "selecting-your-perfect-campsite",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-25 09:31:30",
+                                    "post_modified_gmt": "2026-01-25 09:31:30",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9385,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/kit-and-campcraft\/lessons\/selecting-your-perfect-campsite\/",
+                                    "menu_order": 1,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "16"
+                                        ],
+                                        "tutor-course-duplicate-9407": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9408,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-25 09:33:08",
+                                    "post_date_gmt": "2026-01-25 09:33:08",
+                                    "post_content": "<h2 data-pm-slice=\"1 3 []\">Waste Management: Leave No Trace<\/h2><p>A great motto for the countryside is: <em>\"Take nothing but pictures, leave nothing but footprints.\"<\/em><\/p><ul><li><p><strong>Pre-Expedition Prep:<\/strong> The best way to deal with trash is to not bring it. Remove unnecessary cardboard and plastic packaging from your food before you pack your rucksack.<\/p><\/li><li><p><strong>The \"Nappy Sack\" Method:<\/strong> Keep a dedicated bag (like a bin bag or nappy sacks) for your group's trash. Never leave trash at a campsite or tie it to the outside of your rucksack where it can fall off.<\/p><\/li><li><p><strong>The Final Sweep:<\/strong> Before your team departs a campsite, perform a sweep. Walk across the entire area to check for \"micro-litter\" (like tiny corners of granola bar wrappers) and forgotten tent pegs.<\/p><\/li><\/ul>",
+                                    "post_title": "Waste Management: Leave No Trace",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "waste-management-leave-no-trace",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-25 09:33:08",
+                                    "post_modified_gmt": "2026-01-25 09:33:08",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9385,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/kit-and-campcraft\/lessons\/waste-management-leave-no-trace\/",
+                                    "menu_order": 2,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "14"
+                                        ],
+                                        "tutor-course-duplicate-9408": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9410,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-25 09:35:51",
+                                    "post_date_gmt": "2026-01-25 09:35:51",
+                                    "post_content": "<h2 data-pm-slice=\"1 3 []\">Hygiene &amp; \"The Trowel\"<\/h2><p>At most of the places you will camp on your expedition, there will be no toilet facilities. Read the attached leaflet about how to go to the toilet when you're out hiking.<\/p><ul><li><p><strong>Distance:<\/strong> Always go at least 30 meters away from water sources (rivers\/lakes) and your campsite.<\/p><\/li><li><p><strong>The Cat Hole:<\/strong> Use a lightweight trowel to dig a hole at least 15cm deep.<\/p><\/li><li><p><strong>Pack it Out:<\/strong> Used toilet paper and hygiene products should be placed in a sealed bag and carried out with your trash.<\/p><\/li><\/ul>",
+                                    "post_title": "Hygiene & \"The Trowel\"",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "hygiene-the-trowel",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-25 09:35:51",
+                                    "post_modified_gmt": "2026-01-25 09:35:51",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9385,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/kit-and-campcraft\/lessons\/hygiene-the-trowel\/",
+                                    "menu_order": 3,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_tutor_attachments": [
+                                            [
+                                                "9409"
+                                            ]
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "19"
+                                        ],
+                                        "tutor-course-duplicate-9410": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9391,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-27 07:50:22",
+                                    "post_date_gmt": "2026-01-27 07:50:22",
+                                    "post_content": "",
+                                    "post_title": "Knowledge Check",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "knowledge-check",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-27 07:50:22",
+                                    "post_modified_gmt": "2026-01-27 07:50:22",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9385,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/kit-and-campcraft\/quizzes\/knowledge-check\/",
+                                    "menu_order": 4,
+                                    "post_type": "tutor_quiz",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "tutor_quiz_option": [
+                                            {
+                                                "attempts_allowed": "0",
+                                                "feedback_mode": "retry",
+                                                "hide_question_number_overview": "0",
+                                                "hide_quiz_time_display": "0",
+                                                "max_questions_for_answer": "10",
+                                                "open_ended_answer_characters_limit": "500",
+                                                "pass_is_required": "0",
+                                                "passing_grade": "80",
+                                                "question_layout_view": "single_question",
+                                                "questions_order": "rand",
+                                                "quiz_auto_start": "0",
+                                                "short_answer_characters_limit": "200",
+                                                "time_limit": {
+                                                    "time_type": "minutes",
+                                                    "time_value": "0"
+                                                },
+                                                "content_drip_settings": []
+                                            }
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "36"
+                                        ],
+                                        "_wp_old_date": [
+                                            "2026-01-24",
+                                            "2026-01-25"
+                                        ],
+                                        "tutor-course-duplicate-9391": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false,
+                                    "question_answer": [
+                                        {
+                                            "question": {
+                                                "question_id": "5",
+                                                "quiz_id": "9391",
+                                                "question_title": "Which of the following is the best campsite option?",
+                                                "question_description": "Look at the maps below and pick the one that you think represents the best campsite. Consider the type of ground, how you will get there, proximity to other land users and so on. Remember that you can\\'t only tell from the map, you have to use your judgement on the ground.",
+                                                "answer_explanation": "<p>The option by Affric Lodge is right next to buildings and so is not an appropriate camping site.<\/p><p>The option by Athnamulloch in is boggy grounde.<\/p><p>The option by the ruin south of the river is potentially good, but the path is on the other side of the river and there is no bridge.<\/p><p>The option north of the river by the fords is the best potential campsite of these four.<\/p><p>Of course, when you check it out in real life, vegetation or other factors may mean it is not a good option either, but it\\'s the one I\\'d check first.<\/p>",
+                                                "question_type": "multiple_choice",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "0",
+                                                    "question_mark": "1",
+                                                    "question_type": "multiple_choice",
+                                                    "randomize_question": "1",
+                                                    "show_question_mark": "0",
+                                                    "has_multiple_correct_answer": "0"
+                                                },
+                                                "question_order": "1"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "13",
+                                                    "belongs_question_id": "5",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "",
+                                                    "is_correct": "1",
+                                                    "image_id": "9390",
+                                                    "image_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/Affric-D.webp",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text_image",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "14",
+                                                    "belongs_question_id": "5",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "",
+                                                    "is_correct": "0",
+                                                    "image_id": "9389",
+                                                    "image_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/affric-B.webp",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text_image",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                },
+                                                {
+                                                    "answer_id": "15",
+                                                    "belongs_question_id": "5",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "",
+                                                    "is_correct": "0",
+                                                    "image_id": "9388",
+                                                    "image_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/affric-A.webp",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text_image",
+                                                    "answer_settings": null,
+                                                    "answer_order": "3"
+                                                },
+                                                {
+                                                    "answer_id": "16",
+                                                    "belongs_question_id": "5",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "",
+                                                    "is_correct": "0",
+                                                    "image_id": "9387",
+                                                    "image_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/affric-c.webp",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text_image",
+                                                    "answer_settings": null,
+                                                    "answer_order": "4"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "8",
+                                                "quiz_id": "9391",
+                                                "question_title": "What is the most important factor when choosing a spot to use your cooking stove?",
+                                                "question_description": "",
+                                                "answer_explanation": null,
+                                                "question_type": "multiple_choice",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "0",
+                                                    "question_mark": "1",
+                                                    "question_type": "multiple_choice",
+                                                    "randomize_question": "1",
+                                                    "show_question_mark": "0",
+                                                    "has_multiple_correct_answer": "0"
+                                                },
+                                                "question_order": "2"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "23",
+                                                    "belongs_question_id": "8",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "Inside the tent porch to stay dry",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "24",
+                                                    "belongs_question_id": "8",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "On top of a large flat rock under a tree",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                },
+                                                {
+                                                    "answer_id": "25",
+                                                    "belongs_question_id": "8",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "In the middle of the group\\'s circle of rucksacks",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "3"
+                                                },
+                                                {
+                                                    "answer_id": "26",
+                                                    "belongs_question_id": "8",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "On a firm, level surface at least away from your tents",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "4"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "9",
+                                                "quiz_id": "9391",
+                                                "question_title": "Before leaving a campsite, your team should perform a ___________ to ensure no micro-litter or tent pegs are left behind.",
+                                                "question_description": "",
+                                                "answer_explanation": null,
+                                                "question_type": "multiple_choice",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "0",
+                                                    "question_mark": "1",
+                                                    "question_type": "multiple_choice",
+                                                    "randomize_question": "0",
+                                                    "show_question_mark": "0",
+                                                    "has_multiple_correct_answer": "0"
+                                                },
+                                                "question_order": "3"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "27",
+                                                    "belongs_question_id": "9",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "Dance",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "28",
+                                                    "belongs_question_id": "9",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "Sweep",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                },
+                                                {
+                                                    "answer_id": "29",
+                                                    "belongs_question_id": "9",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "Song",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "3"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "10",
+                                                "quiz_id": "9391",
+                                                "question_title": "It is acceptable to leave biodegradable waste, like orange peels or banana skins, in the bushes because they will eventually rot.",
+                                                "question_description": "",
+                                                "answer_explanation": null,
+                                                "question_type": "true_false",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "0",
+                                                    "question_mark": "1",
+                                                    "question_type": "true_false",
+                                                    "randomize_question": "0",
+                                                    "show_question_mark": "0"
+                                                },
+                                                "question_order": "4"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "30",
+                                                    "belongs_question_id": "10",
+                                                    "belongs_question_type": "true_false",
+                                                    "answer_title": "True",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "31",
+                                                    "belongs_question_id": "10",
+                                                    "belongs_question_type": "true_false",
+                                                    "answer_title": "False",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "11",
+                                                "quiz_id": "9391",
+                                                "question_title": "When \\\"wild\\\" toileting, you must go _________ nearby water sources",
+                                                "question_description": "",
+                                                "answer_explanation": null,
+                                                "question_type": "multiple_choice",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "0",
+                                                    "question_mark": "1",
+                                                    "question_type": "multiple_choice",
+                                                    "randomize_question": "0",
+                                                    "show_question_mark": "0",
+                                                    "has_multiple_correct_answer": "0"
+                                                },
+                                                "question_order": "5"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "32",
+                                                    "belongs_question_id": "11",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "A couple of metres away from",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "33",
+                                                    "belongs_question_id": "11",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "At least 30m away from",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                },
+                                                {
+                                                    "answer_id": "34",
+                                                    "belongs_question_id": "11",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "In",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "3"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "child_posts": [],
+                    "attachment_links": []
+                }
+            }
+        }
+    ]
+}

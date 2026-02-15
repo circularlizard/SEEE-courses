@@ -1,0 +1,249 @@
+{
+    "schema_version": "2.0.0",
+    "exported_at": "15 February, 2026 12:25",
+    "keep_media_files": false,
+    "keep_user_data": false,
+    "data": [
+        {
+            "content_type": "courses",
+            "data": {
+                "course": {
+                    "ID": 9363,
+                    "post_author": "5",
+                    "post_date": "2026-01-27 08:15:06",
+                    "post_date_gmt": "2026-01-27 08:15:06",
+                    "post_content": "<p>For this module of the Virtual Expedition Training for DofE, Chief Scout\u2019s Platinum, Chief Scout\u2019s Diamond and King\u2019s Scout Award we\u2019re looking at keeping you safe.<\/p>",
+                    "post_title": "5. First Aid eLearning",
+                    "post_excerpt": "",
+                    "post_status": "publish",
+                    "comment_status": "closed",
+                    "ping_status": "closed",
+                    "post_password": "",
+                    "post_name": "first-aid-elearning",
+                    "to_ping": "",
+                    "pinged": "",
+                    "post_modified": "2026-01-27 08:15:06",
+                    "post_modified_gmt": "2026-01-27 08:15:06",
+                    "post_content_filtered": "",
+                    "post_parent": 0,
+                    "guid": "https:\/\/see-expeditions.org.uk\/?post_type=courses&#038;p=9363",
+                    "menu_order": 0,
+                    "post_type": "courses",
+                    "post_mime_type": "",
+                    "comment_count": "0",
+                    "filter": "raw",
+                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/pexels-martabranco-31837693-scaled.jpg",
+                    "meta": {
+                        "_tutor_course_price_type": [
+                            "free"
+                        ],
+                        "_wp_old_slug": [
+                            "new-course"
+                        ],
+                        "_tutor_course_settings": [
+                            {
+                                "maximum_students": 0,
+                                "enrollment_expiry": "",
+                                "enable_content_drip": 0,
+                                "content_drip_type": "",
+                                "enable_tutor_bp": 0,
+                                "course_enrollment_period": "no",
+                                "enrollment_starts_at": "",
+                                "enrollment_ends_at": "",
+                                "pause_enrollment": "no"
+                            }
+                        ],
+                        "_video": [
+                            []
+                        ],
+                        "_tutor_enable_qa": [
+                            "no"
+                        ],
+                        "_tutor_is_public_course": [
+                            "no"
+                        ],
+                        "tutor_course_sale_price": [
+                            "0"
+                        ],
+                        "_course_duration": [
+                            {
+                                "hours": "2",
+                                "minutes": "0"
+                            }
+                        ],
+                        "_tutor_course_level": [
+                            "intermediate"
+                        ],
+                        "_thumbnail_id": [
+                            "9375"
+                        ],
+                        "_wp_old_date": [
+                            "2026-01-24",
+                            "2026-01-25"
+                        ],
+                        "_eael_post_view_count": [
+                            "26"
+                        ],
+                        "_tutor_course_started": [
+                            "1769334473"
+                        ],
+                        "_tutor_course_benefits": [
+                            "Principles of First Aid and incident management\r\nEmergency Life Support (unconsciousness, CPR & use of AED)\r\nMajor Injuries (Bleeding, Burns, Fractures & Soft Tissue injuries)\r\nMedical Conditions\r\nExtremes of Temperature & other conditions"
+                        ]
+                    },
+                    "taxonomies": {
+                        "categories": [
+                            {
+                                "term_id": 50,
+                                "name": "Gold",
+                                "slug": "gold",
+                                "term_group": 0,
+                                "term_taxonomy_id": 50,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at gold award participants.",
+                                "parent": 0,
+                                "count": 7,
+                                "filter": "raw"
+                            },
+                            {
+                                "term_id": 49,
+                                "name": "Silver",
+                                "slug": "silver",
+                                "term_group": 0,
+                                "term_taxonomy_id": 49,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at silver award participants.",
+                                "parent": 0,
+                                "count": 7,
+                                "filter": "raw"
+                            }
+                        ],
+                        "tags": []
+                    },
+                    "contents": [
+                        {
+                            "ID": 9411,
+                            "post_author": "5",
+                            "post_date": "2026-01-25 09:43:20",
+                            "post_date_gmt": "2026-01-25 09:43:20",
+                            "post_content": "",
+                            "post_title": "First Aid eLearning",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "first-aid-elearning",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-01-25 09:43:20",
+                            "post_modified_gmt": "2026-01-25 09:43:20",
+                            "post_content_filtered": "",
+                            "post_parent": 9363,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/first-aid-elearning\/",
+                            "menu_order": 1,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9413,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-25 09:46:23",
+                                    "post_date_gmt": "2026-01-25 09:46:23",
+                                    "post_content": "<h2>Do the Online Learning Course<\/h2><p>We have a\u00a0<strong><a href=\"https:\/\/hampshire-scouts.thinkific.com\/courses\/dofeexpeditionfirstaid\">full eLearning course<\/a><\/strong>\u00a0to take you through the learning needed for First Aid and expedition safety. It will take around 2 \u2013 2.5 hours to complete depending on your current knowledge.<\/p><p>Is the assignment for this module, you are asked to upload the certificate created from the course when you complete it.<\/p><p>The first time you use the Hampshire Scouts training system, you will need to create a login and password. You can complete the course over several sessions. Log in again later to continue, and to check your history.<\/p><p>The knowledge check is built into the course \u2013 you will need to answer all the questions correctly in each stage of the course. If you gat any wrong, just go back to the training to review and complete the quiz again.<\/p><p>Once you have completed all of the questions, you will see a completion page like this \u2013 make sure you click the link to add your name and details to the completion log so we know you have completed the course.<\/p><p>Enter your\u00a0<strong>name<\/strong>\u00a0and for your group add\u00a0<strong>SEEE<\/strong>\u00a0followed by your\u00a0<strong>Explorer Unit name.<\/strong>\u00a0e.g.<strong>\u00a0 \u00a0SEEE \/ Tormain.<\/strong><\/p><p><img class=\"alignnone size-medium wp-image-9416\" src=\"http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/hampshire-register-300x174.png\" alt=\"Hampshire Scouts registration pgae\" width=\"300\" height=\"174\" \/>\u00a0<\/p><div class=\"page-content\"><div class=\"elementor elementor-8120\" data-elementor-type=\"wp-page\" data-elementor-id=\"8120\" data-elementor-post-type=\"page\"><section class=\"elementor-section elementor-top-section elementor-element elementor-element-396ee9a elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"396ee9a\" data-element_type=\"section\"><div class=\"elementor-container elementor-column-gap-default\"><div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e7739e\" data-id=\"3e7739e\" data-element_type=\"column\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-12f8d14 elementor-widget elementor-widget-text-editor\" data-id=\"12f8d14\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><p>While you are still logged in also download your completion certificate from the Dashboard of the training system using the \u201cGet Your Certificate\u201d button. Keep this safe, so if there is any problem with finding you in the completion log, yo have proof that you passed the course.<\/p><p><img class=\"alignnone size-medium wp-image-9417\" src=\"http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/hampshire-completion-300x259.png\" alt=\"Hampshire scouts expedition completion\" width=\"300\" height=\"259\" \/><\/p><\/div><\/div><\/div><\/div><\/div><\/section><\/div><\/div><p>\u00a0<\/p><footer class=\"elementor elementor-1935 elementor-location-footer\" data-elementor-type=\"footer\" data-elementor-id=\"1935\" data-elementor-post-type=\"elementor_library\"><section class=\"elementor-section elementor-top-section elementor-element elementor-element-14323440 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"14323440\" data-element_type=\"section\"><div class=\"elementor-container elementor-column-gap-default\"><div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6d596976\" data-id=\"6d596976\" data-element_type=\"column\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-88f8fe1 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"88f8fe1\" data-element_type=\"widget\" data-widget_type=\"divider.default\"><div class=\"elementor-widget-container\">\u00a0<\/div><\/div><div class=\"elementor-element elementor-element-b499c56 elementor-widget elementor-widget-text-editor\" data-id=\"b499c56\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><p>\u00a0<\/p><\/div><\/div><\/div><\/div><\/div><\/section><\/footer>",
+                                    "post_title": "Hampshire Scouts First Aid Course",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "hampshire-scouts-first-aid-course",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-27 08:13:25",
+                                    "post_modified_gmt": "2026-01-27 08:13:25",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9411,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/first-aid-elearning\/lessons\/hampshire-scouts-first-aid-course\/",
+                                    "menu_order": 1,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "15"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9546,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-27 08:12:00",
+                                    "post_date_gmt": "2026-01-27 08:12:00",
+                                    "post_content": "<p>Do the online learning and upload your certificate.<\/p><p>You can access it here - <a href=\"https:\/\/hampshire-scouts.thinkific.com\/courses\/dofeexpeditionfirstaid\" target=\"_blank\" rel=\"noopener\">https:\/\/hampshire-scouts.thinkific.com\/courses\/dofeexpeditionfirstaid<\/a><\/p><p>Instructions about how to do that course are in the previous lesson in this module.<\/p>",
+                                    "post_title": "Do the online learning",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "do-the-online-learning",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-27 08:15:04",
+                                    "post_modified_gmt": "2026-01-27 08:15:04",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9411,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/first-aid-elearning\/assignments\/do-the-online-learning\/",
+                                    "menu_order": 2,
+                                    "post_type": "tutor_assignments",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_tutor_course_id_for_assignments": [
+                                            "9363"
+                                        ],
+                                        "assignment_option": [
+                                            {
+                                                "time_duration": {
+                                                    "time": "weeks",
+                                                    "value": 0
+                                                },
+                                                "deadline_from_start": "0",
+                                                "total_mark": "1",
+                                                "pass_mark": "1",
+                                                "upload_files_limit": "1",
+                                                "upload_file_size_limit": "5",
+                                                "is_retry_allowed": "1",
+                                                "attempts_allowed": "5"
+                                            }
+                                        ],
+                                        "_tutor_assignment_total_mark": [
+                                            "1"
+                                        ],
+                                        "_tutor_assignment_pass_mark": [
+                                            "1"
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "11"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                }
+                            ]
+                        }
+                    ],
+                    "child_posts": [],
+                    "attachment_links": []
+                }
+            }
+        }
+    ]
+}

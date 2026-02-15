@@ -1,0 +1,299 @@
+{
+    "schema_version": "2.0.0",
+    "exported_at": "15 February, 2026 12:18",
+    "keep_media_files": false,
+    "keep_user_data": false,
+    "data": [
+        {
+            "content_type": "courses",
+            "data": {
+                "course": {
+                    "ID": 9748,
+                    "post_author": "5",
+                    "post_date": "2026-02-15 12:16:04",
+                    "post_date_gmt": "2026-02-15 12:16:04",
+                    "post_content": "<p data-pm-slice=\"1 1 []\">Silver and Gold are where navigation gets serious. This course teaches you how to read the \"bones\" of the land\u2014using knolls, valleys, and ridges to find your way across open terrain. Combined with practical experience, you will master high-precision compass work and advanced strategies like \"Aiming Off\" to reach targets that aren't on any map. This is about total independence and the skill to lead yourself and others through challenging environments like a pro.<\/p>",
+                    "post_title": "3b. Advanced Navigation",
+                    "post_excerpt": "",
+                    "post_status": "publish",
+                    "comment_status": "closed",
+                    "ping_status": "closed",
+                    "post_password": "",
+                    "post_name": "3b-advanced-navigation",
+                    "to_ping": "",
+                    "pinged": "",
+                    "post_modified": "2026-02-15 12:16:05",
+                    "post_modified_gmt": "2026-02-15 12:16:05",
+                    "post_content_filtered": "",
+                    "post_parent": 0,
+                    "guid": "https:\/\/see-expeditions.org.uk\/?post_type=courses&#038;p=9748",
+                    "menu_order": 0,
+                    "post_type": "courses",
+                    "post_mime_type": "",
+                    "comment_count": "0",
+                    "filter": "raw",
+                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/02\/Silva-gold.webp",
+                    "meta": {
+                        "_tutor_course_price_type": [
+                            "free"
+                        ],
+                        "_wp_old_slug": [
+                            "new-course",
+                            "navigation-basics-2"
+                        ],
+                        "_tutor_course_settings": [
+                            {
+                                "maximum_students": 0,
+                                "enrollment_expiry": "",
+                                "enable_content_drip": 1,
+                                "content_drip_type": "unlock_sequentially",
+                                "enable_tutor_bp": 0,
+                                "course_enrollment_period": "no",
+                                "enrollment_starts_at": "",
+                                "enrollment_ends_at": "",
+                                "pause_enrollment": "no"
+                            }
+                        ],
+                        "_video": [
+                            []
+                        ],
+                        "_tutor_enable_qa": [
+                            "no"
+                        ],
+                        "_tutor_is_public_course": [
+                            "no"
+                        ],
+                        "tutor_course_sale_price": [
+                            "0"
+                        ],
+                        "_course_duration": [
+                            {
+                                "hours": "0",
+                                "minutes": "0"
+                            }
+                        ],
+                        "_tutor_course_level": [
+                            "intermediate"
+                        ],
+                        "_eael_post_view_count": [
+                            "19"
+                        ],
+                        "_thumbnail_id": [
+                            "9743"
+                        ],
+                        "_wp_old_date": [
+                            "2026-01-24"
+                        ],
+                        "_elementor_page_assets": [
+                            []
+                        ],
+                        "tutor-course-duplicate-9362": [
+                            "1"
+                        ],
+                        "_tutor_course_benefits": [
+                            "Off-Path Precision: Learn to navigate cross-country using subtle landforms like knolls, saddles, and re-entrants.\r\nAdvanced Compass Mastery: Move beyond the basics to take and follow accurate bearings with \"1-in-10\" precision.\r\nThe Silver Strategy: Master professional techniques like \"Attack Points,\" \"Aiming Off,\" and \"Handrails.\"\r\nProactive Relocation: Learn exactly what to do when things go wrong using the \"Aspect of Slope\" technique to find your way.\r\nThe Naismith Calculus: Calculate your arrival time to the minute using distance, height gain, and pacing.\r\nTotal Independence: Build the confidence to lead a group across open terrain, even when the path disappears."
+                        ],
+                        "_tutor_course_target_audience": [
+                            "This course is designed for Explorers starting their DofE Silver who want to leave the paths behind and develop the \"expert-level\" skills required for navigating open moorland, forests, and complex terrain."
+                        ]
+                    },
+                    "taxonomies": {
+                        "categories": [
+                            {
+                                "term_id": 50,
+                                "name": "Gold",
+                                "slug": "gold",
+                                "term_group": 0,
+                                "term_taxonomy_id": 50,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at gold award participants.",
+                                "parent": 0,
+                                "count": 7,
+                                "filter": "raw"
+                            },
+                            {
+                                "term_id": 49,
+                                "name": "Silver",
+                                "slug": "silver",
+                                "term_group": 0,
+                                "term_taxonomy_id": 49,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at silver award participants.",
+                                "parent": 0,
+                                "count": 7,
+                                "filter": "raw"
+                            }
+                        ],
+                        "tags": []
+                    },
+                    "contents": [
+                        {
+                            "ID": 9757,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 11:52:27",
+                            "post_date_gmt": "2026-02-15 11:52:27",
+                            "post_content": "A quick check to see if your foundations are still good. If they aren't we'll recommend you also take the Navigation Foundations module.",
+                            "post_title": "Knowledge Check",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "knowledge-check-3",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 11:52:27",
+                            "post_modified_gmt": "2026-02-15 11:52:27",
+                            "post_content_filtered": "",
+                            "post_parent": 9748,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/knowledge-check-3\/",
+                            "menu_order": 1,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": []
+                        },
+                        {
+                            "ID": 9758,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 12:01:03",
+                            "post_date_gmt": "2026-02-15 12:01:03",
+                            "post_content": "How to navigate when there are no paths.",
+                            "post_title": "Reading the ground",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "reading-the-ground",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 12:01:03",
+                            "post_modified_gmt": "2026-02-15 12:01:03",
+                            "post_content_filtered": "",
+                            "post_parent": 9748,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/reading-the-ground\/",
+                            "menu_order": 2,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": []
+                        },
+                        {
+                            "ID": 9761,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 12:08:25",
+                            "post_date_gmt": "2026-02-15 12:08:25",
+                            "post_content": "Advanced sighting and the geometry of error. ",
+                            "post_title": "Compass Mastery (Precision & Precision Navigation)",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "compass-mastery-precision-precision-navigation",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 12:08:25",
+                            "post_modified_gmt": "2026-02-15 12:08:25",
+                            "post_content_filtered": "",
+                            "post_parent": 9748,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/compass-mastery-precision-precision-navigation\/",
+                            "menu_order": 3,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": []
+                        },
+                        {
+                            "ID": 9759,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 12:07:24",
+                            "post_date_gmt": "2026-02-15 12:07:24",
+                            "post_content": "Predicting your arrival and judging space by eye.",
+                            "post_title": "Distance, Timing & Pacing",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "distance-timing-pacing",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 12:07:24",
+                            "post_modified_gmt": "2026-02-15 12:07:24",
+                            "post_content_filtered": "",
+                            "post_parent": 9748,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/distance-timing-pacing\/",
+                            "menu_order": 4,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": []
+                        },
+                        {
+                            "ID": 9760,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 12:07:50",
+                            "post_date_gmt": "2026-02-15 12:07:50",
+                            "post_content": "Technical navigation and what to do when \"displaced.\" ",
+                            "post_title": "The Silver Strategy (Relocation & Advanced Tactics)",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "the-silver-strategy-relocation-advanced-tactics",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 12:07:50",
+                            "post_modified_gmt": "2026-02-15 12:07:50",
+                            "post_content_filtered": "",
+                            "post_parent": 9748,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/the-silver-strategy-relocation-advanced-tactics\/",
+                            "menu_order": 5,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": []
+                        },
+                        {
+                            "ID": 9762,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 12:09:02",
+                            "post_date_gmt": "2026-02-15 12:09:02",
+                            "post_content": "Documenting the journey for safety and leadership.",
+                            "post_title": "The Advanced Route Card",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "the-advanced-route-card",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 12:09:02",
+                            "post_modified_gmt": "2026-02-15 12:09:02",
+                            "post_content_filtered": "",
+                            "post_parent": 9748,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/the-advanced-route-card\/",
+                            "menu_order": 6,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": []
+                        }
+                    ],
+                    "child_posts": [],
+                    "attachment_links": []
+                }
+            }
+        }
+    ]
+}

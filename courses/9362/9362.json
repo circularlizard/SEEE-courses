@@ -1,0 +1,317 @@
+{
+    "schema_version": "2.0.0",
+    "exported_at": "15 February, 2026 12:18",
+    "keep_media_files": false,
+    "keep_user_data": false,
+    "data": [
+        {
+            "content_type": "courses",
+            "data": {
+                "course": {
+                    "ID": 9362,
+                    "post_author": "5",
+                    "post_date": "2026-02-15 12:17:52",
+                    "post_date_gmt": "2026-02-15 12:17:52",
+                    "post_content": "<p data-pm-slice=\"1 1 []\">The Bronze Award is your first step into the world of independent exploration. This module strips away the mystery of the paper map, turning complex symbols and lines into a clear picture of the landscape around you. We focus on \"handrail\" navigation\u2014learning how to use paths, tracks, and field boundaries as your guide. By the end of this course, and combined with practical tuition, you won't just be following a group; you\u2019ll have the skills to plan your own journeys and navigate them with certainty.<\/p>",
+                    "post_title": "3a. Navigation Foundations",
+                    "post_excerpt": "",
+                    "post_status": "publish",
+                    "comment_status": "closed",
+                    "ping_status": "closed",
+                    "post_password": "",
+                    "post_name": "navigation-foundations",
+                    "to_ping": "",
+                    "pinged": "",
+                    "post_modified": "2026-02-15 12:17:53",
+                    "post_modified_gmt": "2026-02-15 12:17:53",
+                    "post_content_filtered": "",
+                    "post_parent": 0,
+                    "guid": "https:\/\/see-expeditions.org.uk\/?post_type=courses&#038;p=9362",
+                    "menu_order": 0,
+                    "post_type": "courses",
+                    "post_mime_type": "",
+                    "comment_count": "0",
+                    "filter": "raw",
+                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/02\/Silva-blue.webp",
+                    "meta": {
+                        "_tutor_course_price_type": [
+                            "free"
+                        ],
+                        "_wp_old_slug": [
+                            "new-course",
+                            "navigation-basics"
+                        ],
+                        "_tutor_course_settings": [
+                            {
+                                "maximum_students": 0,
+                                "enrollment_expiry": "",
+                                "enable_content_drip": 1,
+                                "content_drip_type": "unlock_sequentially",
+                                "enable_tutor_bp": 0,
+                                "course_enrollment_period": "no",
+                                "enrollment_starts_at": "",
+                                "enrollment_ends_at": "",
+                                "pause_enrollment": "no"
+                            }
+                        ],
+                        "_video": [
+                            []
+                        ],
+                        "_tutor_enable_qa": [
+                            "no"
+                        ],
+                        "_tutor_is_public_course": [
+                            "no"
+                        ],
+                        "tutor_course_sale_price": [
+                            "0"
+                        ],
+                        "_course_duration": [
+                            {
+                                "hours": "0",
+                                "minutes": "0"
+                            }
+                        ],
+                        "_tutor_course_level": [
+                            "beginner"
+                        ],
+                        "_eael_post_view_count": [
+                            "20"
+                        ],
+                        "_thumbnail_id": [
+                            "9744"
+                        ],
+                        "_wp_old_date": [
+                            "2026-01-24"
+                        ],
+                        "_elementor_page_assets": [
+                            []
+                        ],
+                        "tutor-course-duplicate-9362": [
+                            "1"
+                        ],
+                        "_tutor_course_benefits": [
+                            "Master the Map: Learn to read OS symbols like a pro and turn those squiggly lines into a 3D mental picture.\r\nNever Get Lost: Understand the \"Corridor and Stairs\" method to provide pinpoint 6-figure grid references.\r\nThe 5 D\u2019s of Planning: Discover the formula (Destination, Distance, Direction, Description, Dangers) for a perfect hiking plan.\r\nThe Needle: Learn the essential parts of a compass and how to keep your map oriented to the North.\r\nVisualizing the Hill: Understand contour lines so you never get surprised by a steep climb again."
+                        ],
+                        "_tutor_course_target_audience": [
+                            "This course is designed for Explorers starting their DofE Bronze, looking to build the confidence to explore the countryside using established paths and tracks."
+                        ]
+                    },
+                    "taxonomies": {
+                        "categories": [
+                            {
+                                "term_id": 48,
+                                "name": "Bronze",
+                                "slug": "bronze",
+                                "term_group": 0,
+                                "term_taxonomy_id": 48,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at bronze award participants.",
+                                "parent": 0,
+                                "count": 6,
+                                "filter": "raw"
+                            }
+                        ],
+                        "tags": []
+                    },
+                    "contents": [
+                        {
+                            "ID": 9737,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 10:57:03",
+                            "post_date_gmt": "2026-02-15 10:57:03",
+                            "post_content": "We'll look at different kinds of map and help you convert the 2D information to a mental model of the real world.",
+                            "post_title": "The language of the map",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "the-language-of-the-map",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 10:57:03",
+                            "post_modified_gmt": "2026-02-15 10:57:03",
+                            "post_content_filtered": "",
+                            "post_parent": 9362,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/the-language-of-the-map\/",
+                            "menu_order": 1,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9763,
+                                    "post_author": "5",
+                                    "post_date": "2026-02-15 12:17:43",
+                                    "post_date_gmt": "2026-02-15 12:17:43",
+                                    "post_content": "<p>There are many different kinds of <strong>map<\/strong><\/p>",
+                                    "post_title": "The many kinds of map",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "the-many-kinds-of-map",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-02-15 12:17:50",
+                                    "post_modified_gmt": "2026-02-15 12:17:50",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9737,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/navigation-foundations\/lessons\/the-many-kinds-of-map\/",
+                                    "menu_order": 1,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": [],
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 9738,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 10:57:45",
+                            "post_date_gmt": "2026-02-15 10:57:45",
+                            "post_content": "Tools for locating yourself, and how to communicate your location on a paper map.",
+                            "post_title": "Where are you?",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "where-are-you",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 10:57:45",
+                            "post_modified_gmt": "2026-02-15 10:57:45",
+                            "post_content_filtered": "",
+                            "post_parent": 9362,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/where-are-you\/",
+                            "menu_order": 2,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": []
+                        },
+                        {
+                            "ID": 9739,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 10:58:00",
+                            "post_date_gmt": "2026-02-15 10:58:00",
+                            "post_content": "How the map represents 3D terrain on a 2D sheet.",
+                            "post_title": "The wrinkly Earth",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "the-wrinkly-earth",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 10:58:00",
+                            "post_modified_gmt": "2026-02-15 10:58:00",
+                            "post_content_filtered": "",
+                            "post_parent": 9362,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/the-wrinkly-earth\/",
+                            "menu_order": 3,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": []
+                        },
+                        {
+                            "ID": 9740,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 10:58:19",
+                            "post_date_gmt": "2026-02-15 10:58:19",
+                            "post_content": "Finding your direction and how to use a compass effectively.",
+                            "post_title": "The magic needle",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "the-magic-needle",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 10:58:19",
+                            "post_modified_gmt": "2026-02-15 10:58:19",
+                            "post_content_filtered": "",
+                            "post_parent": 9362,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/the-magic-needle\/",
+                            "menu_order": 4,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": []
+                        },
+                        {
+                            "ID": 9741,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 10:56:07",
+                            "post_date_gmt": "2026-02-15 10:56:07",
+                            "post_content": "This module covers route planning techniques, breaking your journey into manageable legs and thinking about how you will keep track of your progress.",
+                            "post_title": "Planning the mission",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "planning-the-mission",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 10:56:07",
+                            "post_modified_gmt": "2026-02-15 10:56:07",
+                            "post_content_filtered": "",
+                            "post_parent": 9362,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/planning-the-mission\/",
+                            "menu_order": 5,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": []
+                        },
+                        {
+                            "ID": 9742,
+                            "post_author": "5",
+                            "post_date": "2026-02-15 10:58:51",
+                            "post_date_gmt": "2026-02-15 10:58:51",
+                            "post_content": "Let's bring it all together in a short quiz.",
+                            "post_title": "Final quiz",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "final-quiz",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-02-15 10:58:51",
+                            "post_modified_gmt": "2026-02-15 10:58:51",
+                            "post_content_filtered": "",
+                            "post_parent": 9362,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/final-quiz\/",
+                            "menu_order": 6,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": []
+                        }
+                    ],
+                    "child_posts": [],
+                    "attachment_links": []
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,737 @@
+{
+    "schema_version": "2.0.0",
+    "exported_at": "15 February, 2026 12:25",
+    "keep_media_files": false,
+    "keep_user_data": false,
+    "data": [
+        {
+            "content_type": "courses",
+            "data": {
+                "course": {
+                    "ID": 9607,
+                    "post_author": "5",
+                    "post_date": "2026-02-15 11:16:33",
+                    "post_date_gmt": "2026-02-15 11:16:33",
+                    "post_content": "<p>This module covers everything you need to know about food and nutrition for your Duke of Edinburgh's Award expedition. You will learn about calorie requirements, menu planning, cooking safety, and the best types of food to bring. This course is specifically for gold expedition participants.<\/p>",
+                    "post_title": "4b. Cooking and Menu Planning (Gold)",
+                    "post_excerpt": "",
+                    "post_status": "publish",
+                    "comment_status": "closed",
+                    "ping_status": "closed",
+                    "post_password": "",
+                    "post_name": "4-cooking-and-menu-planning-gold",
+                    "to_ping": "",
+                    "pinged": "",
+                    "post_modified": "2026-02-15 11:16:34",
+                    "post_modified_gmt": "2026-02-15 11:16:34",
+                    "post_content_filtered": "",
+                    "post_parent": 0,
+                    "guid": "https:\/\/see-expeditions.org.uk\/?post_type=courses&#038;p=9607",
+                    "menu_order": 0,
+                    "post_type": "courses",
+                    "post_mime_type": "",
+                    "comment_count": "0",
+                    "filter": "raw",
+                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/cooking.webp",
+                    "meta": {
+                        "_tutor_course_price_type": [
+                            "free"
+                        ],
+                        "_wp_old_slug": [
+                            "new-course",
+                            "cooking-and-menu-planning-2"
+                        ],
+                        "_tutor_course_settings": [
+                            {
+                                "maximum_students": 0,
+                                "enrollment_expiry": "",
+                                "enable_content_drip": 0,
+                                "content_drip_type": "",
+                                "enable_tutor_bp": 0,
+                                "course_enrollment_period": "no",
+                                "enrollment_starts_at": "",
+                                "enrollment_ends_at": "",
+                                "pause_enrollment": "no"
+                            }
+                        ],
+                        "_video": [
+                            []
+                        ],
+                        "_tutor_enable_qa": [
+                            "yes"
+                        ],
+                        "_tutor_is_public_course": [
+                            "no"
+                        ],
+                        "tutor_course_sale_price": [
+                            "0"
+                        ],
+                        "_course_duration": [
+                            {
+                                "hours": "0",
+                                "minutes": "0"
+                            }
+                        ],
+                        "_tutor_course_level": [
+                            "expert"
+                        ],
+                        "_thumbnail_id": [
+                            "9374"
+                        ],
+                        "_eael_post_view_count": [
+                            "24"
+                        ],
+                        "_wp_old_date": [
+                            "2026-01-24",
+                            "2026-01-28"
+                        ],
+                        "_tutor_course_started": [
+                            "1769636066"
+                        ],
+                        "tutor-course-duplicate-9361": [
+                            "1"
+                        ]
+                    },
+                    "taxonomies": {
+                        "categories": [
+                            {
+                                "term_id": 50,
+                                "name": "Gold",
+                                "slug": "gold",
+                                "term_group": 0,
+                                "term_taxonomy_id": 50,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at gold award participants.",
+                                "parent": 0,
+                                "count": 7,
+                                "filter": "raw"
+                            }
+                        ],
+                        "tags": []
+                    },
+                    "contents": [
+                        {
+                            "ID": 9608,
+                            "post_author": "5",
+                            "post_date": "2026-01-28 21:53:11",
+                            "post_date_gmt": "2026-01-28 21:53:11",
+                            "post_content": "",
+                            "post_title": "The Basics of Expedition Nutrition",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "the-basics-of-expedition-nutrition-2",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-01-28 21:53:11",
+                            "post_modified_gmt": "2026-01-28 21:53:11",
+                            "post_content_filtered": "",
+                            "post_parent": 9607,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/the-basics-of-expedition-nutrition-2\/",
+                            "menu_order": 1,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9609,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-28 21:53:11",
+                                    "post_date_gmt": "2026-01-28 21:53:11",
+                                    "post_content": "<h2>Calorie Requirements<\/h2><p><strong>Target Intake:<\/strong><\/p><p>Aim for <strong>3000 to 4000 calories per day<\/strong>. This is significantly higher than a normal daily diet due to the physical exertion of hiking with a heavy pack. Some guidelines suggest up to 5000 calories for Gold expeditions.<\/p><p><strong>Daily Breakdown:<\/strong><\/p><ul><li><strong>Breakfast:<\/strong> ~20% of daily calories.<\/li><li><strong>Lunch:<\/strong> ~30% of daily calories.<\/li><li><strong>Dinner:<\/strong> ~50% of daily calories (the main recovery meal).<\/li><li><strong>Snacks:<\/strong> Should not exceed 20% of the total intake.<\/li><\/ul><h2>Hydration<\/h2><p><strong>Daily Goal:<\/strong> Drink at least <strong>2 liters<\/strong> of water per day while walking. In hot weather, this should increase.<\/p><p><strong>Cold Weather:<\/strong> Thirst signals are weaker in the cold, so you must consciously drink regularly to prevent dehydration.<\/p><p><strong>Systems:<\/strong> Hydration bladders (e.g., CamelBak) encourage frequent sipping without stopping. Water bottles are good for camp.<\/p><h2>Menu Planning Principles<\/h2><p><strong>Teamwork:<\/strong> Plan as a group. Sharing a common meal (e.g., a big pasta pot) is more efficient and boosts morale compared to everyone cooking solo.<\/p><p><strong>Balance:<\/strong> Aim for a mix of Carbohydrates (energy), Protein (muscle repair), and Fats (warmth\/slow energy).<\/p><p><strong>Variety:<\/strong> Don't eat the same flavour every day. Palettes change when tired; you might crave salt or spice.<\/p>",
+                                    "post_title": "Nutritional Needs & Planning",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "nutritional-needs-planning-3-2",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-28 21:53:11",
+                                    "post_modified_gmt": "2026-01-28 21:53:11",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9608,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/cooking-and-menu-planning-2\/lessons\/nutritional-needs-planning-3-2\/",
+                                    "menu_order": 0,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "12"
+                                        ],
+                                        "_thumbnail_id": [
+                                            "9602"
+                                        ],
+                                        "tutor-course-duplicate-9594": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/nutrition-chart-e1769636380361.webp"
+                                },
+                                {
+                                    "ID": 9610,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-28 21:53:13",
+                                    "post_date_gmt": "2026-01-28 21:53:13",
+                                    "post_content": "<h2>Cooking Safety & Hygiene<\/h2><p><strong>The 'Substantial Meal' Rule:<\/strong> You <strong>must<\/strong> cook a substantial hot meal every day (except the final day). Boiling water for a boil-in-a-bag meal counts, but 'Pot Noodles' do not (insufficient calories\/nutrition).<\/p><p><strong>Cleaning:<\/strong> Bring a small piece of scourer and a tiny bottle of washing-up liquid. Clean pans immediately after eating; dried food is much harder to remove.<\/p><h2>Forbidden & Risky Foods<\/h2><ul><li><strong>No Fridge Items:<\/strong> Avoid anything that requires refrigeration (fresh meat, soft cheese, yoghurt) after Day 1 lunch.<\/li><li><strong>Raw Meat:<\/strong> Do not bring raw meat (chicken, beef) due to high food poisoning risk.<\/li><li><strong>Glass & Tins:<\/strong> Usually banned for safety and weight reasons.<\/li><\/ul><h2>Foods to Avoid<\/h2><p>While not strictly 'forbidden', these items are highly discouraged:<\/p><ul><li><strong>Pot Noodles \/ Instant Ramen:<\/strong> Bulky, low nutritional value (mostly salt\/water), and no sustained energy.<\/li><li><strong>Fizzy Drinks \/ Energy Drinks:<\/strong> Heavy and provide a short sugar spike followed by a crash.<\/li><li><strong>Delicate Items:<\/strong> Bread loaves, croissants, or soft cakes will get crushed. Use wraps, pittas, or dense malt loaf instead.<\/li><\/ul>",
+                                    "post_title": "Safety, Hygiene, and What to Avoid",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "safety-hygiene-and-what-to-avoid-2",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-28 21:53:13",
+                                    "post_modified_gmt": "2026-01-28 21:53:13",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9608,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/cooking-and-menu-planning-2\/lessons\/safety-hygiene-and-what-to-avoid-2\/",
+                                    "menu_order": 1,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "9"
+                                        ],
+                                        "tutor-course-duplicate-9595": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 9611,
+                            "post_author": "5",
+                            "post_date": "2026-01-28 21:53:14",
+                            "post_date_gmt": "2026-01-28 21:53:14",
+                            "post_content": "",
+                            "post_title": "Meal Planning",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "meal-planning-3-2",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-01-28 21:53:14",
+                            "post_modified_gmt": "2026-01-28 21:53:14",
+                            "post_content_filtered": "",
+                            "post_parent": 9607,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/meal-planning-3-2\/",
+                            "menu_order": 2,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9612,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-28 21:53:14",
+                                    "post_date_gmt": "2026-01-28 21:53:14",
+                                    "post_content": "<h2>Breakfast<\/h2><p>Aim for high energy. <strong>Hot Options:<\/strong> Porridge pots (add dried fruit), Boil-in-the-bag All Day Breakfast (heavy but easy). <strong>Cold Options:<\/strong> Filled Crepes, Breakfast Bars, Tortilla Wraps with peanut butter, Malt Loaf.<\/p><h2>Lunch<\/h2><p>Lunches should be 'no-cook'. <strong>Wraps\/Pittas:<\/strong> Use hard cheese (Cheddar), cured meats (Peperami\/Chorizo), or Tuna pouches. <strong>Crackers\/Oatcakes:<\/strong> Eat with cheese or p\u00e2t\u00e9.<\/p><h2>Dinner<\/h2><p>Must be a substantial hot meal (~50% of daily calories).<\/p><ul><li><strong>Base:<\/strong> Quick-Cook Pasta, Instant Rice, Instant Mash (Smash), Couscous.<\/li><li><strong>Add Protein\/Sauce:<\/strong> Pesto, Dolmio sachets, Curry sauce, Cured Meats (Chorizo\/Salami), Tuna pouches, Hard Cheese.<\/li><li><strong>Complete Meal Pouches:<\/strong> Wayfayrer, Firepot, Summit to Eat (Chilli, Bolognese, Curry).<\/li><\/ul><h2>Snacks<\/h2><p>Eat little and often. Trail Mix (nuts\/raisins\/chocolate), Energy Bars, Jelly babies, Dried Fruit, Jerky.<\/p>",
+                                    "post_title": "Meal Ideas: Breakfast, Lunch & Dinner",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "meal-ideas-breakfast-lunch-dinner-2",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-28 21:53:14",
+                                    "post_modified_gmt": "2026-01-28 21:53:14",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9611,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/cooking-and-menu-planning-2\/lessons\/meal-ideas-breakfast-lunch-dinner-2\/",
+                                    "menu_order": 0,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "8"
+                                        ],
+                                        "tutor-course-duplicate-9597": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9625,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-28 21:54:24",
+                                    "post_date_gmt": "2026-01-28 21:54:24",
+                                    "post_content": "<h2>1. The Weight Challenge<\/h2><p>Carrying food for 4 days adds significant weight (approx 3-4kg). Every gram counts.<\/p><ul><li><strong>Repackaging Extreme:<\/strong> Remove EVERY scrap of cardboard. Prick air out of pasta bags and tape them shut to reduce volume.<\/li><li><strong>Caloric Density:<\/strong> Aim for foods with <strong>&gt;400kcal per 100g<\/strong>. Check labels: Nuts, chocolate, and oils are excellent. Wet pouches (Wayfayrer) are heavy (1.2kcal\/g) compared to freeze-dried (4.5kcal\/g).<\/li><\/ul><h2>2. Managing Freshness (The 4-Day Timeline)<\/h2><p>Plan your menu based on perishability:<\/p><ul><li><strong>Day 1:<\/strong> 'Heavy &amp; Fresh'. Eat the heavy items like fresh fruit, dense bread, or even a pre-frozen curry (that thaws during the day) tonight.<\/li><li><strong>Day 2:<\/strong> 'Semi-Fresh'. Hard cheese (Cheddar), cured meats (Chorizo), tortilla wraps.<\/li><li><strong>Day 3 &amp; 4:<\/strong> 'Indestructible'. Freeze-dried meals, tuna pouches, crackers, nuts.<\/li><\/ul><h2>3. Beating Menu Fatigue<\/h2><p>By Day 3, you may lose your appetite due to tiredness.<\/p><ul><li><strong>Variety:<\/strong> Do not eat the same dinner 4 nights in a row. Swap between curry, pasta, and chilli (for example).<\/li><li><strong>Texture:<\/strong> Everything can become 'mushy'. Bring crunchy toppings like Bombay mix, seeds, or crushed nachos to add to dinner.<\/li><li><strong>Spices:<\/strong> Your taste buds dull with fatigue. A tiny bag of salt, chilli flakes or hot sauce can make a bland meal edible.<\/li><\/ul><h2>4. High-Calorie Hacks<\/h2><ul><li><strong>Olive Oil:<\/strong> Add a tablespoon to your evening meal. It adds ~120kcal for little volume. Food colouring bottles (washed out of course) make a great way to transport this.<\/li><li><strong>Peanut Butter:<\/strong> High fat, high protein. Eat straight off the spoon if needed.<\/li><li><strong>Liquid Calories:<\/strong> High-calorie hot chocolate or recovery shakes for the evening.<\/li><\/ul>",
+                                    "post_title": "Planning for the Long Haul",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "planning-for-the-long-haul",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-28 21:56:07",
+                                    "post_modified_gmt": "2026-01-28 21:56:07",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9611,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/cooking-and-menu-planning-2\/lessons\/planning-for-the-long-haul\/",
+                                    "menu_order": 1,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "7"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9613,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-28 21:53:14",
+                                    "post_date_gmt": "2026-01-28 21:53:14",
+                                    "post_content": "<h2>Weight vs. Convenience<\/h2><p><strong>'Ready to Eat' (Wet):<\/strong> Heavy (approx 300g) but zero prep. Tastes like real food. e.g., Wayfayrer.<\/p><p><strong>Freeze-Dried:<\/strong> Ultra-light but requires boiling water. High calorie count. e.g., Summit to Eat, Expedition Foods.<\/p><p><strong>Dehydrated:<\/strong> Slow-cooked and dried. Natural ingredients but longer rehydration time. e.g., Firepot, TentMeals.<\/p><h2>Comprehensive Brand Guide<\/h2><h3>1. Wayfayrer<\/h3><ul><li><strong>Type:<\/strong> Ready to Eat (Wet)<\/li><li><strong>Dietary:<\/strong> Vegetarian (Yes), Vegan (Limited), Gluten-Free (Limited)<\/li><li><strong>Best For:<\/strong> Bronze expeditions, first night meal, desserts<\/li><li><strong>Pros:<\/strong> Tastes like real food, zero prep. <strong>Cons:<\/strong> Heavy.<\/li><\/ul><h3>2. Summit to Eat<\/h3><ul><li><strong>Type:<\/strong> Freeze-Dried<\/li><li><strong>Dietary:<\/strong> Vegetarian (Yes), Vegan (Yes - Veg Chilli), Gluten-Free (Yes - Chicken Fajita, Beef Stew)<\/li><li><strong>Best For:<\/strong> Silver\/Gold expeditions.<\/li><li><strong>Pros:<\/strong> Very lightweight, good value. <strong>Cons:<\/strong> Can be mushy.<\/li><\/ul><h3>3. Firepot<\/h3><ul><li><strong>Type:<\/strong> Dehydrated<\/li><li><strong>Dietary:<\/strong> Vegetarian (Yes), Vegan (Large range), Gluten-Free (Clearly filtered), Dairy-Free (Yes)<\/li><li><strong>Best For:<\/strong> Natural ingredient lovers.<\/li><li><strong>Pros:<\/strong> Excellent flavour, no additives. <strong>Cons:<\/strong> Long rehydration time (15 mins).<\/li><\/ul><h3>4. Expedition Foods<\/h3><ul><li><strong>Type:<\/strong> Freeze-Dried<\/li><li><strong>Dietary:<\/strong> All diets explicitly catered for.<\/li><li><strong>Best For:<\/strong> Gold expeditions, high calorie needs.<\/li><li><strong>Pros:<\/strong> Gold standard for weight\/calories (800kcal+ options). <strong>Cons:<\/strong> Expensive.<\/li><\/ul><h3>5. TentMeals<\/h3><ul><li><strong>Type:<\/strong> Dehydrated<\/li><li><strong>Dietary:<\/strong> Vegetarian\/Vegan (All meals), Gluten-Free (No explicit range).<\/li><li><strong>Best For:<\/strong> Vegetarians, Vegans, health-conscious.<\/li><li><strong>Pros:<\/strong> Healthy, compact packaging. <strong>Cons:<\/strong> Mostly veg\/vegan.<\/li><\/ul><h3>6. Adventure Food<\/h3><ul><li><strong>Type:<\/strong> Dehydrated<\/li><li><strong>Dietary:<\/strong> Vegetarian (Yes), Vegan (Limited).<\/li><li><strong>Best For:<\/strong> Budget-conscious trekkers.<\/li><li><strong>Pros:<\/strong> Good price, high calorie. <strong>Cons:<\/strong> Texture can be powdery.<\/li><\/ul><h3>7. Real Turmat<\/h3><ul><li><strong>Type:<\/strong> Freeze-Dried<\/li><li><strong>Dietary:<\/strong> Vegetarian, Vegan, Gluten-Free options available.<\/li><li><strong>Best For:<\/strong> High budget, taste priority.<\/li><li><strong>Pros:<\/strong> Best tasting freeze-dried food. <strong>Cons:<\/strong> Very expensive.<\/li><\/ul><h2>Dietary Requirements Summary<\/h2><p><strong>Vegetarian\/Vegan:<\/strong> TentMeals is your best specific brand, but Firepot and Summit to Eat offer excellent ranges.<\/p><p><strong>Gluten-Free:<\/strong> Firepot and Expedition Foods have the clearest labelling and range for GF participants. Always double-check the back of Wayfayrer packs as they often contain wheat thickeners.<\/p><h2>Packaging Tips<\/h2><p><strong>Repackaging is Key:<\/strong> Remove all unnecessary cardboard and outer packaging. Use Ziploc bags and write instructions on them.<\/p>",
+                                    "post_title": "Packaging & Brands Guide",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "packaging-brands-guide-2-2",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-28 21:53:14",
+                                    "post_modified_gmt": "2026-01-28 21:53:14",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9611,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/cooking-and-menu-planning-2\/lessons\/packaging-brands-guide-2-2\/",
+                                    "menu_order": 2,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "8"
+                                        ],
+                                        "_thumbnail_id": [
+                                            "9587"
+                                        ],
+                                        "tutor-course-duplicate-9598": [
+                                            "1"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2026\/01\/meal-brands.webp"
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 9614,
+                            "post_author": "5",
+                            "post_date": "2026-01-28 21:53:15",
+                            "post_date_gmt": "2026-01-28 21:53:15",
+                            "post_content": "",
+                            "post_title": "Nutrition Knowledge Check",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "knowledge-check-2-2",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-01-28 21:53:15",
+                            "post_modified_gmt": "2026-01-28 21:53:15",
+                            "post_content_filtered": "",
+                            "post_parent": 9607,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/knowledge-check-2-2\/",
+                            "menu_order": 3,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9615,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-28 21:53:15",
+                                    "post_date_gmt": "2026-01-28 21:53:15",
+                                    "post_content": "",
+                                    "post_title": "Nutrition Quiz",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "nutrition-quiz-3-2",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-28 21:53:15",
+                                    "post_modified_gmt": "2026-01-28 21:53:15",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9614,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/cooking-and-menu-planning-2\/quizzes\/nutrition-quiz-3-2\/",
+                                    "menu_order": 0,
+                                    "post_type": "tutor_quiz",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "tutor_quiz_option": [
+                                            {
+                                                "attempts_allowed": "0",
+                                                "feedback_mode": "retry",
+                                                "hide_question_number_overview": "0",
+                                                "hide_quiz_time_display": "0",
+                                                "max_questions_for_answer": "10",
+                                                "open_ended_answer_characters_limit": "500",
+                                                "pass_is_required": "0",
+                                                "passing_grade": "80",
+                                                "question_layout_view": "single_question",
+                                                "questions_order": "rand",
+                                                "quiz_auto_start": "0",
+                                                "short_answer_characters_limit": "200",
+                                                "time_limit": {
+                                                    "time_type": "minutes",
+                                                    "time_value": "0"
+                                                },
+                                                "content_drip_settings": []
+                                            }
+                                        ],
+                                        "tutor-course-duplicate-9600": [
+                                            "1"
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "9"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false,
+                                    "question_answer": [
+                                        {
+                                            "question": {
+                                                "question_id": "52",
+                                                "quiz_id": "9615",
+                                                "question_title": "Why should you repackage your food before the expedition?",
+                                                "question_description": "",
+                                                "answer_explanation": "",
+                                                "question_type": "multiple_choice",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "1",
+                                                    "question_mark": "1",
+                                                    "question_type": "multiple_choice",
+                                                    "randomize_question": "1",
+                                                    "show_question_mark": "0",
+                                                    "has_multiple_correct_answer": "0"
+                                                },
+                                                "question_order": "1"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "150",
+                                                    "belongs_question_id": "52",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "To make it look neater.",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "151",
+                                                    "belongs_question_id": "52",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "To save weight and space in your rucksack.",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                },
+                                                {
+                                                    "answer_id": "152",
+                                                    "belongs_question_id": "52",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "So you can mix all your meals together.",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "3"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "53",
+                                                "quiz_id": "9615",
+                                                "question_title": "Why should you avoid bringing food in glass jars?",
+                                                "question_description": "",
+                                                "answer_explanation": "",
+                                                "question_type": "multiple_choice",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "1",
+                                                    "question_mark": "1",
+                                                    "question_type": "multiple_choice",
+                                                    "randomize_question": "1",
+                                                    "show_question_mark": "0",
+                                                    "has_multiple_correct_answer": "0"
+                                                },
+                                                "question_order": "2"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "153",
+                                                    "belongs_question_id": "53",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "They are too heavy and dangerous if they break.",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "154",
+                                                    "belongs_question_id": "53",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "Glass changes the flavour of the food.",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                },
+                                                {
+                                                    "answer_id": "155",
+                                                    "belongs_question_id": "53",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "They are difficult to recycle.",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "3"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "54",
+                                                "quiz_id": "9615",
+                                                "question_title": "Which of the following is NOT a suitable substantial meal?",
+                                                "question_description": "",
+                                                "answer_explanation": "",
+                                                "question_type": "multiple_choice",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "1",
+                                                    "question_mark": "1",
+                                                    "question_type": "multiple_choice",
+                                                    "randomize_question": "1",
+                                                    "show_question_mark": "0",
+                                                    "has_multiple_correct_answer": "0"
+                                                },
+                                                "question_order": "3"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "156",
+                                                    "belongs_question_id": "54",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "A Pot Noodle",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "157",
+                                                    "belongs_question_id": "54",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "Pasta with pesto and chorizo",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                },
+                                                {
+                                                    "answer_id": "158",
+                                                    "belongs_question_id": "54",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "Wayfayrer Chilli con Carne",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "3"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "55",
+                                                "quiz_id": "9615",
+                                                "question_title": "It is safe to bring raw chicken on your expedition as long as you cook it thoroughly on the first night.",
+                                                "question_description": "",
+                                                "answer_explanation": "",
+                                                "question_type": "true_false",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "1",
+                                                    "question_mark": "1",
+                                                    "question_type": "true_false",
+                                                    "randomize_question": "0",
+                                                    "show_question_mark": "0"
+                                                },
+                                                "question_order": "4"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "159",
+                                                    "belongs_question_id": "55",
+                                                    "belongs_question_type": "true_false",
+                                                    "answer_title": "True",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "160",
+                                                    "belongs_question_id": "55",
+                                                    "belongs_question_type": "true_false",
+                                                    "answer_title": "False",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "56",
+                                                "quiz_id": "9615",
+                                                "question_title": "Approximately how many calories should you aim to consume per day on an expedition?",
+                                                "question_description": "",
+                                                "answer_explanation": "",
+                                                "question_type": "multiple_choice",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "1",
+                                                    "question_mark": "1",
+                                                    "question_type": "multiple_choice",
+                                                    "randomize_question": "1",
+                                                    "show_question_mark": "0",
+                                                    "has_multiple_correct_answer": "0"
+                                                },
+                                                "question_order": "5"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "161",
+                                                    "belongs_question_id": "56",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "2000 (normal daily intake)",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "162",
+                                                    "belongs_question_id": "56",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "3000 - 4000",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                },
+                                                {
+                                                    "answer_id": "163",
+                                                    "belongs_question_id": "56",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "1500 (to stay light)",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "3"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "child_posts": [],
+                    "attachment_links": []
+                }
+            }
+        }
+    ]
+}

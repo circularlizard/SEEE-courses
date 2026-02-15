@@ -1,0 +1,793 @@
+{
+    "schema_version": "2.0.0",
+    "exported_at": "15 February, 2026 12:25",
+    "keep_media_files": false,
+    "keep_user_data": false,
+    "data": [
+        {
+            "content_type": "courses",
+            "data": {
+                "course": {
+                    "ID": 9229,
+                    "post_author": "5",
+                    "post_date": "2026-01-27 07:45:39",
+                    "post_date_gmt": "2026-01-27 07:45:39",
+                    "post_content": "<p>For this module of the Virtual Expedition Training for DofE, Chief Scout\u2019s Platinum, Chief Scout\u2019s Diamond and King\u2019s Scout Award we\u2019re looking at the basics of the Expedition section and the expedition requirements.<\/p>",
+                    "post_title": "1. Expedition Requirements",
+                    "post_excerpt": "",
+                    "post_status": "publish",
+                    "comment_status": "closed",
+                    "ping_status": "closed",
+                    "post_password": "",
+                    "post_name": "dofe-expedition-requirements",
+                    "to_ping": "",
+                    "pinged": "",
+                    "post_modified": "2026-01-27 07:45:40",
+                    "post_modified_gmt": "2026-01-27 07:45:40",
+                    "post_content_filtered": "",
+                    "post_parent": 0,
+                    "guid": "https:\/\/see-expeditions.org.uk\/?post_type=courses&#038;p=9229",
+                    "menu_order": 0,
+                    "post_type": "courses",
+                    "post_mime_type": "",
+                    "comment_count": "0",
+                    "filter": "raw",
+                    "thumbnail_url": "http:\/\/see-expeditions.org.uk\/wp-content\/uploads\/2022\/10\/Lots-of-space-to-camp-scaled.jpg",
+                    "meta": {
+                        "_tutor_course_price_type": [
+                            "free"
+                        ],
+                        "_tutor_course_settings": [
+                            {
+                                "maximum_students": 0,
+                                "enrollment_expiry": "",
+                                "enable_content_drip": 1,
+                                "content_drip_type": "unlock_sequentially",
+                                "enable_tutor_bp": 0,
+                                "course_enrollment_period": "no",
+                                "enrollment_starts_at": "",
+                                "enrollment_ends_at": "",
+                                "pause_enrollment": "no"
+                            }
+                        ],
+                        "_video": [
+                            []
+                        ],
+                        "_tutor_enable_qa": [
+                            "yes"
+                        ],
+                        "_tutor_is_public_course": [
+                            "no"
+                        ],
+                        "tutor_course_sale_price": [
+                            "0"
+                        ],
+                        "_course_duration": [
+                            {
+                                "hours": "0",
+                                "minutes": "11"
+                            }
+                        ],
+                        "_tutor_course_level": [
+                            "all_levels"
+                        ],
+                        "_eael_post_view_count": [
+                            "69"
+                        ],
+                        "_thumbnail_id": [
+                            "5128"
+                        ],
+                        "_wp_old_date": [
+                            "2026-01-20",
+                            "2026-01-24",
+                            "2026-01-25"
+                        ],
+                        "_tutor_course_started": [
+                            "1769281956"
+                        ],
+                        "_tutor_course_benefits": [
+                            "Expedition requirements\r\nTeam goals"
+                        ],
+                        "_tutor_course_target_audience": [
+                            "All expedition participants should complete this module."
+                        ]
+                    },
+                    "taxonomies": {
+                        "categories": [
+                            {
+                                "term_id": 48,
+                                "name": "Bronze",
+                                "slug": "bronze",
+                                "term_group": 0,
+                                "term_taxonomy_id": 48,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at bronze award participants.",
+                                "parent": 0,
+                                "count": 6,
+                                "filter": "raw"
+                            },
+                            {
+                                "term_id": 50,
+                                "name": "Gold",
+                                "slug": "gold",
+                                "term_group": 0,
+                                "term_taxonomy_id": 50,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at gold award participants.",
+                                "parent": 0,
+                                "count": 7,
+                                "filter": "raw"
+                            },
+                            {
+                                "term_id": 49,
+                                "name": "Silver",
+                                "slug": "silver",
+                                "term_group": 0,
+                                "term_taxonomy_id": 49,
+                                "taxonomy": "course-category",
+                                "description": "Materials targeted at silver award participants.",
+                                "parent": 0,
+                                "count": 7,
+                                "filter": "raw"
+                            }
+                        ],
+                        "tags": []
+                    },
+                    "contents": [
+                        {
+                            "ID": 9344,
+                            "post_author": "5",
+                            "post_date": "2026-01-24 19:09:18",
+                            "post_date_gmt": "2026-01-24 19:09:18",
+                            "post_content": "This section will help you understand the expedition requirements",
+                            "post_title": "Expedition Requirements",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "expedition-requirements",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-01-24 19:09:18",
+                            "post_modified_gmt": "2026-01-24 19:09:18",
+                            "post_content_filtered": "",
+                            "post_parent": 9229,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/expedition-requirements\/",
+                            "menu_order": 1,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9345,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-24 19:10:30",
+                                    "post_date_gmt": "2026-01-24 19:10:30",
+                                    "post_content": "<h2>Basic Requirements<\/h2><p>All participants must be within the qualifying\u00a0<strong>age<\/strong>\u00a0of the programme level and at the same\u00a0<strong>Award level<\/strong>\u00a0(i.e., not have completed the same or higher level of expedition).<\/p><p>There must be\u00a0<strong>between four and seven participants<\/strong>\u00a0in a team (eight for modes of travel which can be used by two people at once e.g., tandem bikes, open canoes).<\/p><p>The expedition must be of the correct\u00a0<strong>duration<\/strong>\u00a0and meet the minimum hours of\u00a0<strong>planned activity<\/strong>.<\/p><ul><li><strong>Bronze:<\/strong>\u00a0A minimum of 2 days, 1 night; 6 hours of planned activity each day.<\/li><li><strong>Silver:<\/strong>\u00a0A minimum of 3 days, 2 nights; 7 hours of planned activity each day.<\/li><li><strong>Gold:<\/strong>\u00a0A minimum of 4 days, 3 nights; 8 hours of planned activity each day.<\/li><\/ul><p>Participants must be adequately\u00a0<strong>trained<\/strong>\u00a0to safely complete an expedition in the environment in which they will be operating:<\/p><ul><li><strong>Bronze:<\/strong>\u00a0Teams must complete the required training.<\/li><li><strong>Silver:<\/strong>\u00a0Teams must complete the required training and a practice expedition of a minimum 2 days, 2 nights.<\/li><li><strong>Gold:<\/strong>\u00a0Teams must complete the required training and a practice expedition of a minimum 2 days, 2 nights.<\/li><\/ul>",
+                                    "post_title": "Preparing for the expedition",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "preparing-for-the-expedition",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-24 19:14:49",
+                                    "post_modified_gmt": "2026-01-24 19:14:49",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9344,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/dofe-expedition-requirements\/lessons\/preparing-for-the-expedition\/",
+                                    "menu_order": 0,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "29"
+                                        ],
+                                        "_video": [
+                                            {
+                                                "source": "youtube",
+                                                "source_video_id": "",
+                                                "poster": "",
+                                                "poster_url": "",
+                                                "source_html5": "",
+                                                "source_external_url": "",
+                                                "source_shortcode": "",
+                                                "source_youtube": "https:\/\/www.youtube.com\/watch?v=ciDx5bX2zHg",
+                                                "source_vimeo": "",
+                                                "source_embedded": "",
+                                                "runtime": {
+                                                    "hours": "00",
+                                                    "minutes": "1",
+                                                    "seconds": "11"
+                                                },
+                                                "duration_sec": "71",
+                                                "playtime": "1:11"
+                                            }
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9376,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-24 20:56:34",
+                                    "post_date_gmt": "2026-01-24 20:56:34",
+                                    "post_content": "<h2>Your Expedition Must...<\/h2><h3>Team Goal<\/h3><p>Expeditions must have a clearly defined team goal \u2013 this could be researching an area of interest, contributing to a community action project, or developing soft skills.<\/p><h3>Environment<\/h3><p>The environment chosen must become progressively more challenging through the award levels \u2013 environments could include rural, urban or restricted spaces.<\/p><h3>Accommodation<\/h3><p>Accommodation should be by camping or other simple self-catering accommodation e.g., bunkhouses.<\/p><p><em>Note SEEE expeditions are almost always campnig.<\/em><\/p><h3>Time of year<\/h3><p>Expeditions will usually take place between the end of March and the end of October. There should be a reasonable gap between the practice and qualifying expeditions.<\/p><p><em>Note: For SEEE expeditions the practices are usually in May\/June and the qualifying expedition in August\/September. You should already know the dates of both.<\/em><\/p><h3>Mode of travel<\/h3><p>Participants must choose an appropriate mode of travel for the environment they\u2019ll be journeying through. Journeying must be by participants\u2019 own physical effort, although mobility aids may be used where appropriate to the needs of the participant.<\/p><p><em>Note: In the case of expeditions with SEEE this will be biking, canoeing or hillwalking.<\/em><\/p><h3>Food<\/h3><p>Participants must plan an appropriate expedition menu, including cooking and eating a substantial hot meal each day (optional on the final day).<\/p>",
+                                    "post_title": "Expedition Criteria",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "expedition-criteria",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-24 20:56:34",
+                                    "post_modified_gmt": "2026-01-24 20:56:34",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9344,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/dofe-expedition-requirements\/lessons\/expedition-criteria\/",
+                                    "menu_order": 1,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "15"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9346,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-24 19:11:20",
+                                    "post_date_gmt": "2026-01-24 19:11:20",
+                                    "post_content": "<h2>On Your Expedition<\/h2><p>Participants must <strong>behave responsibly<\/strong> with respect for their team members, Leaders, landowners, the public and animals, and must understand and adhere to the Countryside, Scottish Outdoor Access, Highway and Water Sports Codes (as appropriate).<\/p><p>Expeditions must be <strong>unaccompanied and self-sufficient<\/strong>. The team must be properly equipped, and supervision must be carried out remotely, considering what is reasonably practicable for participants and ensuring their welfare is paramount.<\/p><p>Participants must <strong>actively participate in a debrief<\/strong> with their Assessor at the end of the expedition and, at Silver and Gold level, <strong>a presentation must be delivered<\/strong> after the expedition.<\/p><p>If, during your expedition, your conduct or performance don't meet the expedition requirements outlined above, your assessor will let you know and give you the opportunity to correct yourself.<\/p>",
+                                    "post_title": "On the expedition",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "on-the-expedition",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-24 20:01:33",
+                                    "post_modified_gmt": "2026-01-24 20:01:33",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9344,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/dofe-expedition-requirements\/lessons\/on-the-expedition\/",
+                                    "menu_order": 2,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "29"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 9358,
+                            "post_author": "5",
+                            "post_date": "2026-01-24 19:56:31",
+                            "post_date_gmt": "2026-01-24 19:56:31",
+                            "post_content": "All teams must undertake a project while they are on their expedition. This section explains what you have to do.",
+                            "post_title": "Your Team Goal",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "your-team-goal",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-01-24 19:56:31",
+                            "post_modified_gmt": "2026-01-24 19:56:31",
+                            "post_content_filtered": "",
+                            "post_parent": 9229,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/your-team-goal\/",
+                            "menu_order": 2,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9377,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-24 20:59:10",
+                                    "post_date_gmt": "2026-01-24 20:59:10",
+                                    "post_content": "<p>Every Qualifying Expedition must have a Team Goal, usually some sort of project involving all members of the group.\u00a0 You should discuss this in your walking group \u2013 and pick something.\u00a0 You should then do any research and preparation you need to.\u00a0 A well chosen Goal can make your expedition much more fun!<\/p><p>Note, too, that every group at Silver and Gold has to prepare and deliver a Presentation about their expedition, which is usually linked to the Team Goal, so it is worth choosing something interesting, and agreeing how you can make sure you will have the photos etc for the presentation.<\/p><p>The presentation is best done a couple of weeks or so after the expedition, while it is fresh in your mind.<\/p><p>A good expedition aim should:<\/p><ul><li>Give a purpose to your expedition<\/li><li>Suitable for the environment<\/li><li>Be carried out whatever the weather<\/li><li>Can be presented back easily<\/li><li>Involve all members at some point<\/li><li>Be enjoyable to research<\/li><li>Compatible with self-sufficient expedition<\/li><li>Be expressed in a single sentence<\/li><li>Involve the whole group doing something<\/li><\/ul>",
+                                    "post_title": "What makes a good goal",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "what-makes-a-good-goal",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-24 21:01:59",
+                                    "post_modified_gmt": "2026-01-24 21:01:59",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9358,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/dofe-expedition-requirements\/lessons\/what-makes-a-good-goal\/",
+                                    "menu_order": 1,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "16"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                },
+                                {
+                                    "ID": 9379,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-24 21:03:24",
+                                    "post_date_gmt": "2026-01-24 21:03:24",
+                                    "post_content": "<p>Here are some goals that other people have done, to give you some ideas. The columns B\/S\/G indicate whether the idea was done as for bronze, silver and gold. There is also another set of ideas from the DofE on the exercise files tab.<\/p><section class=\"elementor-section elementor-top-section elementor-element elementor-element-58b39d39 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"58b39d39\" data-element_type=\"section\"><div class=\"elementor-container elementor-column-gap-default\"><div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a4784d4\" data-id=\"a4784d4\" data-element_type=\"column\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-78e03d70 elementor-widget elementor-widget-text-editor\" data-id=\"78e03d70\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div><table title=\"\" border=\"1\" summary=\"\" cellspacing=\"0\" cellpadding=\"0\"><thead><tr><td><strong>Topic for Goal<\/strong><\/td><td><strong>Topic area<\/strong><\/td><td><strong>B<\/strong><\/td><td><strong>S<\/strong><\/td><td><strong>G<\/strong><\/td><\/tr><\/thead><tbody><tr><td>Land use<\/td><td>Geography<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Weather observations<\/td><td>Geography<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Impact of tourism<\/td><td>Geography<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Farming<\/td><td>Geography<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Landforms<\/td><td>Geology\/Geography<\/td><td>\u00a0<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Glaciation features<\/td><td>Geology\/Geography<\/td><td>\u00a0<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Find and record interesting rocks<\/td><td>Geology\/Activity<\/td><td>B<\/td><td>\u00a0<\/td><td>\u00a0<\/td><\/tr><tr><td>Wildlife<\/td><td>Nature\/Biology<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Trees<\/td><td>Nature\/Biology<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Plants<\/td><td>Nature\/Biology<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Pollution levels<\/td><td>Nature\/Biology<\/td><td>\u00a0<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Energy input\/output<\/td><td>Biology<\/td><td>\u00a0<\/td><td>\u00a0<\/td><td>G<\/td><\/tr><tr><td>Group dynamics<\/td><td>Group<\/td><td>\u00a0<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>M\/F dynamics within group<\/td><td>Group<\/td><td>\u00a0<\/td><td>\u00a0<\/td><td>G<\/td><\/tr><tr><td>Learn about each other<\/td><td>Group<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Effect of being off-grid<\/td><td>Group<\/td><td>\u00a0<\/td><td>\u00a0<\/td><td>G<\/td><\/tr><tr><td>Learn a skill from one member (eg a language)<\/td><td>Group<\/td><td>\u00a0<\/td><td>\u00a0<\/td><td>G<\/td><\/tr><tr><td>Supporting member(s) with additional needs<\/td><td>Group<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Record detailed timings for legs of route, with observations<\/td><td>Group<\/td><td>B<\/td><td>S<\/td><td>\u00a0<\/td><\/tr><tr><td>Take photos at agreed points and make observations based on a topic: land, nature, weather \u2026<\/td><td>Research<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Video of Expedition<\/td><td>Media<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Photo record<\/td><td>Media<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Diary\/blog<\/td><td>Media\/Personal<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Poetry\/song record<\/td><td>Media\/Personal<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Sketches record<\/td><td>Media<\/td><td>\u00a0<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Multimedia record<\/td><td>Media<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>History of area<\/td><td>History<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Compare historic maps<\/td><td>History\/Geography<\/td><td>\u00a0<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Place names (Gaelic etc)<\/td><td>History\/Geography<\/td><td>\u00a0<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Religious\/supernatural links<\/td><td>History<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Geocaching<\/td><td>Activity<\/td><td>B<\/td><td>S<\/td><td>G<\/td><\/tr><tr><td>Alphabet observation<\/td><td>Activity<\/td><td>B<\/td><td>\u00a0<\/td><td>\u00a0<\/td><\/tr><tr><td>Litter \u2013 mapping, collecting<\/td><td>Activity<\/td><td>B<\/td><td>\u00a0<\/td><td>\u00a0<\/td><\/tr><tr><td>Map erosion on tracks<\/td><td>Activity<\/td><td>B<\/td><td>\u00a0<\/td><td>\u00a0<\/td><\/tr><tr><td>Take photos of group at different points and map location of photos<\/td><td>Activity\/Media<\/td><td>B<\/td><td>\u00a0<\/td><td>\u00a0<\/td><\/tr><tr><td>Taking selfies as a group at main waypoints to create a collage of our expedition journey<\/td><td>Activity\/Media<\/td><td>B<\/td><td>\u00a0<\/td><td>\u00a0<\/td><\/tr><tr><td>Researching named features, notices, plaques \u2026 Perhaps part of a topic.<\/td><td>Activity<\/td><td>B<\/td><td>S<\/td><td>\u00a0<\/td><\/tr><\/tbody><\/table><\/div><\/div><\/div><\/div><\/div><\/div><\/section><section class=\"elementor-section elementor-top-section elementor-element elementor-element-2327a38 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"2327a38\" data-element_type=\"section\"><div class=\"elementor-container elementor-column-gap-default\"><div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0dafbdd\" data-id=\"0dafbdd\" data-element_type=\"column\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-2847545 elementor-widget elementor-widget-text-editor\" data-id=\"2847545\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\">\u00a0<\/div><\/div><\/div><\/div><\/div><\/section>",
+                                    "post_title": "Some ideas for your goal",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "some-ideas-for-your-goal",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-24 21:06:52",
+                                    "post_modified_gmt": "2026-01-24 21:06:52",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9358,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/dofe-expedition-requirements\/lessons\/some-goal-ideas\/",
+                                    "menu_order": 2,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_tutor_attachments": [
+                                            [
+                                                "9378"
+                                            ]
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "17"
+                                        ],
+                                        "_wp_old_slug": [
+                                            "some-goal-ideas"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 9359,
+                            "post_author": "5",
+                            "post_date": "2026-01-24 19:57:26",
+                            "post_date_gmt": "2026-01-24 19:57:26",
+                            "post_content": "This section explains our policy with respect to mobile phones and other electronic devices while on your expedition.",
+                            "post_title": "Mobile Phone Policy",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "mobile-phone-policy",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-01-24 19:57:26",
+                            "post_modified_gmt": "2026-01-24 19:57:26",
+                            "post_content_filtered": "",
+                            "post_parent": 9229,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/mobile-phone-policy\/",
+                            "menu_order": 3,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9380,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-24 21:16:14",
+                                    "post_date_gmt": "2026-01-24 21:16:14",
+                                    "post_content": "<h2>Electronics and mobile phone policy<\/h2><p>One of the expedition requirements is self-sufficiency. During the expedition, your focus should be your team and the expedition itself - that is a key part of the expedition experience. Unless there's a valid reason, your phone should be off and in your bag.<\/p><ul><li>Mobile phones should only be used for emergency purposes i.e. contacting your<br \/>supervisor\/assessor in the event of an accident\/incident you need to discuss with them which will alter your route or if you are running very late (e.g. 2 hours). They should be turned off in a sealed bag ideally with the first aid kit.<\/li><li>Phoning or messaging your parents \/ boyfriend \/ girlfriend, catching up on the football scores and so on are not generally good reasons to get your phone out.<\/li><li>If you need to take photos or videos for your project, consider getting a single purpose device<\/li><li>This is the suggested policy. If you have particular needs, you should discuss with your supervisor and assessor at the beginning of the expedition and ensure your phone is turned off when not required to preserve battery.<\/li><\/ul><p>You should register your phone with the 999 service (see <a href=\"https:\/\/www.emergencysms.org.uk\">www.emergencysms.org.uk<\/a>).\u00a0<\/p><p>You should also download the OS Explore app, which will give you an accurate grid reference in an emergency.<\/p>",
+                                    "post_title": "Mobile phone policy",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "open",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "mobile-phone-policy",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-24 21:16:14",
+                                    "post_modified_gmt": "2026-01-24 21:16:14",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9359,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/dofe-expedition-requirements\/lessons\/mobile-phone-policy\/",
+                                    "menu_order": 1,
+                                    "post_type": "lesson",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "_eael_post_view_count": [
+                                            "16"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 9381,
+                            "post_author": "5",
+                            "post_date": "2026-01-24 21:16:32",
+                            "post_date_gmt": "2026-01-24 21:16:32",
+                            "post_content": "A quick quiz",
+                            "post_title": "Knowledge Check",
+                            "post_excerpt": "",
+                            "post_status": "publish",
+                            "comment_status": "closed",
+                            "ping_status": "closed",
+                            "post_password": "",
+                            "post_name": "knowledge-check",
+                            "to_ping": "",
+                            "pinged": "",
+                            "post_modified": "2026-01-24 21:16:32",
+                            "post_modified_gmt": "2026-01-24 21:16:32",
+                            "post_content_filtered": "",
+                            "post_parent": 9229,
+                            "guid": "https:\/\/see-expeditions.org.uk\/topics\/knowledge-check\/",
+                            "menu_order": 4,
+                            "post_type": "topics",
+                            "post_mime_type": "",
+                            "comment_count": "0",
+                            "filter": "raw",
+                            "children": [
+                                {
+                                    "ID": 9382,
+                                    "post_author": "5",
+                                    "post_date": "2026-01-24 21:43:53",
+                                    "post_date_gmt": "2026-01-24 21:43:53",
+                                    "post_content": "",
+                                    "post_title": "Expedition requirements and team goal quiz",
+                                    "post_excerpt": "",
+                                    "post_status": "publish",
+                                    "comment_status": "closed",
+                                    "ping_status": "closed",
+                                    "post_password": "",
+                                    "post_name": "expedition-requirements-and-team-goal-quiz",
+                                    "to_ping": "",
+                                    "pinged": "",
+                                    "post_modified": "2026-01-24 21:43:53",
+                                    "post_modified_gmt": "2026-01-24 21:43:53",
+                                    "post_content_filtered": "",
+                                    "post_parent": 9381,
+                                    "guid": "https:\/\/see-expeditions.org.uk\/courses\/dofe-expedition-requirements\/quizzes\/expedition-requirements-and-team-goal-quiz\/",
+                                    "menu_order": 1,
+                                    "post_type": "tutor_quiz",
+                                    "post_mime_type": "",
+                                    "comment_count": "0",
+                                    "filter": "raw",
+                                    "meta": {
+                                        "tutor_quiz_option": [
+                                            {
+                                                "attempts_allowed": "0",
+                                                "feedback_mode": "retry",
+                                                "hide_question_number_overview": "0",
+                                                "hide_quiz_time_display": "1",
+                                                "max_questions_for_answer": "10",
+                                                "open_ended_answer_characters_limit": "500",
+                                                "pass_is_required": "0",
+                                                "passing_grade": "0",
+                                                "question_layout_view": "single_question",
+                                                "questions_order": "rand",
+                                                "quiz_auto_start": "0",
+                                                "short_answer_characters_limit": "200",
+                                                "time_limit": {
+                                                    "time_type": "minutes",
+                                                    "time_value": "0"
+                                                }
+                                            }
+                                        ],
+                                        "_eael_post_view_count": [
+                                            "17"
+                                        ]
+                                    },
+                                    "child_posts": [],
+                                    "thumbnail_url": false,
+                                    "question_answer": [
+                                        {
+                                            "question": {
+                                                "question_id": "1",
+                                                "quiz_id": "9382",
+                                                "question_title": "Which of the following are NOT consistent with the expedition requirements?",
+                                                "question_description": "",
+                                                "answer_explanation": null,
+                                                "question_type": "multiple_choice",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "0",
+                                                    "question_mark": "1",
+                                                    "question_type": "multiple_choice",
+                                                    "randomize_question": "1",
+                                                    "show_question_mark": "0",
+                                                    "has_multiple_correct_answer": "1"
+                                                },
+                                                "question_order": "1"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "1",
+                                                    "belongs_question_id": "1",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "You have a team of 8 people",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "2",
+                                                    "belongs_question_id": "1",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "You cook a hot meal with your team mates each night",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                },
+                                                {
+                                                    "answer_id": "3",
+                                                    "belongs_question_id": "1",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "You stop at a shop to stock up on supplies",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "3"
+                                                },
+                                                {
+                                                    "answer_id": "4",
+                                                    "belongs_question_id": "1",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "You hike each day and your route card includes time to work on your team goal",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "4"
+                                                },
+                                                {
+                                                    "answer_id": "5",
+                                                    "belongs_question_id": "1",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "You discard your food waste to lighten your load. It\\'ll rot away, after all.",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "5"
+                                                },
+                                                {
+                                                    "answer_id": "6",
+                                                    "belongs_question_id": "1",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "You are running late, so you accept a lift from a helpful farmer to help get back on track.",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "6"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "2",
+                                                "quiz_id": "9382",
+                                                "question_title": "It\\'s OK to send updates to your boyfriend \/ girlfriend so long as it\\'s no more than three times a day",
+                                                "question_description": "",
+                                                "answer_explanation": null,
+                                                "question_type": "true_false",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "0",
+                                                    "question_mark": "1",
+                                                    "question_type": "true_false",
+                                                    "randomize_question": "0",
+                                                    "show_question_mark": "0"
+                                                },
+                                                "question_order": "2"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "7",
+                                                    "belongs_question_id": "2",
+                                                    "belongs_question_type": "true_false",
+                                                    "answer_title": "True",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "8",
+                                                    "belongs_question_id": "2",
+                                                    "belongs_question_type": "true_false",
+                                                    "answer_title": "False",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "3",
+                                                "quiz_id": "9382",
+                                                "question_title": "What is your team goal?",
+                                                "question_description": "",
+                                                "answer_explanation": null,
+                                                "question_type": "open_ended",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "0",
+                                                    "question_mark": "1",
+                                                    "question_type": "open_ended",
+                                                    "randomize_question": "0",
+                                                    "show_question_mark": "0"
+                                                },
+                                                "question_order": "3"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": null,
+                                                    "belongs_question_id": null,
+                                                    "belongs_question_type": null,
+                                                    "answer_title": null,
+                                                    "is_correct": null,
+                                                    "image_id": null,
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": null,
+                                                    "answer_view_format": null,
+                                                    "answer_settings": null,
+                                                    "answer_order": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "question": {
+                                                "question_id": "4",
+                                                "quiz_id": "9382",
+                                                "question_title": "Which of the following is a good team goal",
+                                                "question_description": "",
+                                                "answer_explanation": null,
+                                                "question_type": "multiple_choice",
+                                                "question_mark": "1.00",
+                                                "question_settings": {
+                                                    "answer_required": "1",
+                                                    "question_mark": "1",
+                                                    "question_type": "multiple_choice",
+                                                    "randomize_question": "1",
+                                                    "show_question_mark": "0",
+                                                    "has_multiple_correct_answer": "0"
+                                                },
+                                                "question_order": "4"
+                                            },
+                                            "answers": [
+                                                {
+                                                    "answer_id": "9",
+                                                    "belongs_question_id": "4",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "To complete the 15km route each day before 4:00 PM so the team can rest.",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "1"
+                                                },
+                                                {
+                                                    "answer_id": "10",
+                                                    "belongs_question_id": "4",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "To allow the Team Leader to practice their navigation skills while the rest of the group focuses on morale.",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "2"
+                                                },
+                                                {
+                                                    "answer_id": "11",
+                                                    "belongs_question_id": "4",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "To study and record the variety of wildflowers found at different altitudes along our route for a post-expedition presentation.",
+                                                    "is_correct": "1",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "3"
+                                                },
+                                                {
+                                                    "answer_id": "12",
+                                                    "belongs_question_id": "4",
+                                                    "belongs_question_type": "multiple_choice",
+                                                    "answer_title": "To ensure that every team member survives the trip without losing any personal gear.",
+                                                    "is_correct": "0",
+                                                    "image_id": "0",
+                                                    "image_url": "",
+                                                    "answer_two_gap_match": "",
+                                                    "answer_view_format": "text",
+                                                    "answer_settings": null,
+                                                    "answer_order": "4"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "child_posts": [],
+                    "attachment_links": []
+                }
+            }
+        }
+    ]
+}
