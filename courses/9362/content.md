@@ -33,13 +33,13 @@ We look at different kinds of map and help you convert the 2D information on the
 
 Not all maps are created equal. Each type is designed for a different job, and picking the right one matters.
 
-**Google Maps** is brilliant for driving directions, but zoom in on a hillside and you'll find almost nothing useful for a walker — no field boundaries, no contour detail, and no rights of way.
+**Google Maps** is brilliant for driving directions, but zoom in on a hillside and you'll find almost nothing useful for a walker — no field boundaries, no contour detail, and no paths or tracks.
 
 **Komoot and AllTrails** are great for inspiration. They show you popular routes and let you browse other people's adventures. But they rely on a phone signal and a charged battery, and the underlying map often lacks the fine detail you need when the path forks unexpectedly.
 
 **Ordnance Survey 1:50,000** (the Landranger series with the pink cover) works well for cycling and getting a broad overview of an area. Roads and major paths stand out clearly, but smaller features like field boundaries and individual buildings start to disappear.
 
-**OS 1:25,000** (the Explorer series with the orange cover) is the gold standard for walkers. Every field boundary, every gate, every stream crossing is marked. Harvey maps offer a similar level of detail for popular mountain areas, printed on tough waterproof paper.
+**OS 1:25,000** (the Explorer series with the orange cover) is the gold standard for walkers. Every wall, every fence line, every stream crossing is marked. Harvey maps offer a similar level of detail for popular Scottish mountain areas, printed on tough waterproof paper.
 
 For your DofE expedition, the 1:25,000 map is your primary tool. It gives you the detail to navigate confidently even when the path isn't obvious on the ground.
 
@@ -56,19 +56,21 @@ A map is a language. Once you learn the 'alphabet' of symbols, you can read the 
 
 Map symbols fall into four broad families:
 
-- **Linear symbols** — these follow lines across the map. Rights of way are the most important: a dashed green line for a footpath, long green dashes for a bridleway. Roads, railways, and fences are all linear symbols too.
-- **Area symbols** — these fill a region. Green shading with small tree symbols means woodland. Yellow shading means open land. Blue shading means water (a lake or reservoir).
-- **Point symbols** — these mark a single spot. A blue triangle is a trig point. A small black cross with a square base is a church with a tower. A tiny circle marks a spot height.
-- **Water symbols** — streams and rivers are shown as thin blue lines. The line gets thicker as the watercourse grows. Marshland is shown with short horizontal blue lines.
+- **Linear symbols** — these follow lines across the map. Paths and tracks are the most important for walkers. A single dashed line shows a **path** (a narrow route on foot), while a pair of dashed lines shows a **track** (wider, often suitable for vehicles). Roads, railways, walls, and fences are all linear symbols too.
+- **Area symbols** — these fill a region. Green shading with small tree symbols means woodland or forestry plantation. Yellow shading means open land. Blue shading means water (a loch or reservoir).
+- **Point symbols** — these mark a single spot. A blue triangle is a trig point. A small black rectangle marks a building or bothy. A tiny dot with a number marks a spot height.
+- **Water symbols** — burns and rivers are shown as thin blue lines. The line gets thicker as the watercourse grows. Marshland is shown with short horizontal blue lines.
 
-Pay close attention to the **dashed line styles**. The difference between a footpath (short dashes) and a bridleway (long dashes) matters — a bridleway allows horses and cyclists, while a footpath is for walkers only.
+Pay close attention to the **dashed line styles**. The difference between a path (single dashed line) and a track (double dashed lines) tells you a lot about what to expect on the ground. A track is usually wider and easier to follow; a path may be faint or overgrown in places.
+
+In Scotland, the Land Reform (Scotland) Act 2003 gives you a broad **right of responsible access** to most land. You aren't restricted to marked rights of way as in England and Wales. However, the paths and tracks shown on the map are still your best guide to practical routes.
 
 Every OS map includes a full legend on the cover. Keep it handy until the common symbols become second nature.
 
-> **Key point:** Learn the four symbol families — linear, area, point, and water — and you can decode any OS map.
+> **Key point:** Learn the four symbol families — linear, area, point, and water — and you can decode any OS map. In Scotland, focus on the difference between paths and tracks.
 
-![Spot-the-difference graphic comparing dashed line styles for footpath, bridleway, and byway](media/lesson-1-2-line-styles.jpg)
-<!-- MEDIA-TODO: Comparison of dashed line styles with real-world photo of each feature -->
+![Comparison of dashed line styles for path, track, and road on an OS map](media/lesson-1-2-line-styles.jpg)
+<!-- MEDIA-TODO: Comparison of dashed line styles for path (single dash), track (double dash), and minor road, each paired with a real-world photo from Scottish terrain -->
 
 ### Lesson: Scale and space
 
@@ -101,13 +103,13 @@ For a more precise measurement, use a piece of string laid along your route, the
 
 <!-- type: matching -->
 
-- Dashed green line (short) = Footpath
-- Dashed green line (long) = Bridleway
+- Single dashed line = Path
+- Double dashed lines = Track
 - Blue triangle = Trig point
-- Green shading with tree symbols = Woodland
-- Small black cross with square base = Church with tower
+- Green shading with tree symbols = Woodland or forestry plantation
+- Small black rectangle = Building or bothy
 
-> **Explanation:** Linear symbols like footpaths and bridleways are shown as dashed green lines of different lengths. Point symbols mark individual features such as trig points and churches.
+> **Explanation:** Linear symbols like paths and tracks are shown as dashed lines — single for a path, double for a track. Point symbols mark individual features such as trig points and buildings.
 
 #### 8cm on a 1:25,000 map represents how far on the ground?
 
@@ -120,12 +122,12 @@ For a more precise measurement, use a piece of string laid along your route, the
 
 > **Explanation:** At 1:25,000 scale, 4cm equals 1km. So 8cm equals 2km.
 
-#### Click on the symbol for a path you are legally allowed to ride a bike on.
+#### Click on the symbol that represents a track rather than a path.
 
 <!-- type: image_answering -->
-<!-- MEDIA-TODO: Map snippet showing footpath, bridleway, byway, and road symbols -->
+<!-- MEDIA-TODO: Map snippet showing path, track, minor road, and major road symbols from a Scottish OS map -->
 
-> **Explanation:** A bridleway (long green dashes) permits walkers, horse riders, and cyclists. A footpath (short green dashes) is for walkers only.
+> **Explanation:** A track is shown as a pair of dashed lines and is usually wide enough for a vehicle. A path is shown as a single dashed line and is narrower.
 
 ## Where are you?
 
@@ -165,7 +167,7 @@ Start with four-figure grid references. The rule is simple: **'along the corrido
 2. Find the horizontal grid line at the **bottom** of your target square. Read the two-digit number printed up the side of the map. This is your **northing**.
 3. Put them together: easting first, then northing.
 
-A four-figure grid reference like **SU 38 15** identifies a 1km × 1km square. That's good enough to tell someone roughly where you are — like saying 'I'm in the square that contains the church.'
+A four-figure grid reference like **NN 38 15** identifies a 1km × 1km square. That's good enough to tell someone roughly where you are — like saying 'I'm in the square that contains the bothy.'
 
 > **Key point:** Eastings first (along the corridor), then northings (up the stairs). A four-figure reference identifies a 1km square.
 
@@ -176,7 +178,7 @@ A four-figure grid reference like **SU 38 15** identifies a 1km × 1km square. T
 
 <!-- duration: 6 -->
 
-A four-figure reference gets you to the right square kilometre. A **six-figure reference** pinpoints you to within 100 metres — accurate enough to identify a specific gate, bridge, or building.
+A four-figure reference gets you to the right square kilometre. A **six-figure reference** pinpoints you to within 100 metres — accurate enough to identify a specific bridge, bothy, or cairn.
 
 The trick is to slice each 1km grid square into ten equal strips in each direction:
 
@@ -331,7 +333,7 @@ Pick up your baseplate compass and find these features:
 
 <!-- duration: 6 -->
 
-**Setting** (or **orienting**) the map means rotating it so that north on the map points to north in the real world. Once the map is set, everything on it lines up with the landscape around you — left on the map is left on the ground, and the church symbol on the map is in the same direction as the real church.
+**Setting** (or **orienting**) the map means rotating it so that north on the map points to north in the real world. Once the map is set, everything on it lines up with the landscape around you — left on the map is left on the ground, and the bothy symbol on the map is in the same direction as the real bothy.
 
 Here's how to set your map:
 
@@ -388,8 +390,8 @@ Every journey can be broken into short sections called **legs**. Each leg takes 
 1. **Destination** — where are you heading? Identify a clear feature on the map: a junction, a bridge, a gate, a stream crossing.
 2. **Distance** — how far is it? Measure the leg on the map using the grid squares or a roamer.
 3. **Direction** — which way do you need to go? For Bronze, this is usually 'follow the path,' but note whether you're heading broadly north, south, east, or west.
-4. **Description** — what will you see along the way? Note the terrain: 'path through woodland,' 'track alongside a wall,' 'field edge with hedge on the left.'
-5. **Dangers** — are there any hazards? A road crossing, a steep descent, a river ford, or boggy ground.
+4. **Description** — what will you see along the way? Note the terrain: 'path through forestry plantation,' 'track alongside a stone wall,' 'open moorland with burn on the left.'
+5. **Dangers** — are there any hazards? A road crossing, a steep descent, a burn in spate, or boggy ground.
 
 Writing down the five Ds for each leg before you set off gives you a clear plan. If something doesn't match what you expected, you know immediately that something is wrong.
 
@@ -407,8 +409,8 @@ A walk is like a book — it's made up of chapters. Each chapter is a **leg**, a
 Good waypoints are features you can identify both on the map and on the ground:
 
 - A path junction
-- A gate or stile
-- A bridge
+- A gate or deer fence crossing
+- A bridge over a burn
 - A distinctive bend in a wall or fence
 
 Once you've identified your waypoints, you can write a **route card**. A route card is a table that records the five Ds for every leg of your journey. Think of it as the group's script — everyone can follow the plan, and if the navigator gets confused, anyone in the group can pick up where they left off.
@@ -489,12 +491,12 @@ Let's bring it all together. This assessment uses two real-world scenarios to te
 <!-- feedback_mode: retry -->
 <!-- questions_order: rand -->
 
-#### Scenario one: the forest trail — You find an injured walker near a ruined building in the forest. Identify the six-figure grid reference for the rescue team.
+#### Scenario one: the forest trail — You find an injured walker near a ruin in a forestry plantation. Identify the six-figure grid reference for the rescue team.
 
 <!-- type: image_answering -->
-<!-- MEDIA-TODO: Map extract showing a ruin symbol in a forest area -->
+<!-- MEDIA-TODO: Map extract showing a ruin symbol inside a forestry plantation in Scotland -->
 
-> **Explanation:** Read the easting and estimate tenths across, then read the northing and estimate tenths up. Accuracy matters when directing a rescue team.
+> **Explanation:** Read the easting and estimate tenths across, then read the northing and estimate tenths up. Accuracy matters when directing a mountain rescue team.
 
 #### Scenario one: the forest trail — You have a 1.2km leg along a path. If you are walking at 4km/h, how long should this leg take?
 
@@ -518,17 +520,17 @@ Let's bring it all together. This assessment uses two real-world scenarios to te
 
 > **Explanation:** A handrail is a linear feature that runs alongside your route and guides your navigation.
 
-#### Scenario two: the farm and hill walk — You come to a T-junction at a farm. Based on the field boundaries and farm buildings shown in the photo, is your map oriented correctly?
+#### Scenario two: the glen walk — You come to a track junction near a farm. Based on the stone walls and farm buildings shown in the photo, is your map oriented correctly?
 
 <!-- type: true_false -->
-<!-- MEDIA-TODO: Photo of a farm T-junction alongside a map snippet, one correctly oriented -->
+<!-- MEDIA-TODO: Photo of a Scottish farm track junction alongside a map snippet, one correctly oriented -->
 
 - * True
 - False
 
-> **Explanation:** When your map is set correctly, the features on the map line up with what you see on the ground. Field boundaries and buildings are reliable reference points.
+> **Explanation:** When your map is set correctly, the features on the map line up with what you see on the ground. Stone walls and buildings are reliable reference points.
 
-#### Scenario two: the farm and hill walk — You are heading toward a church. If you reach a major A-road, have you gone too far? What is this road called in navigation terms?
+#### Scenario two: the glen walk — You are heading toward a bothy. If you reach a major road, have you gone too far? What is this road called in navigation terms?
 
 <!-- type: single_choice -->
 
@@ -539,10 +541,10 @@ Let's bring it all together. This assessment uses two real-world scenarios to te
 
 > **Explanation:** A catching feature is a large, unmissable feature beyond your target that tells you you've overshot.
 
-#### Scenario two: the farm and hill walk — The path climbs steeply toward a viewpoint. Based on the map snippet, is the landform you are standing on a spur or a valley?
+#### Scenario two: the glen walk — The path climbs steeply toward a viewpoint above the glen. Based on the map snippet, is the landform you are standing on a spur or a valley?
 
 <!-- type: single_choice -->
-<!-- MEDIA-TODO: Map snippet showing contour lines forming a spur -->
+<!-- MEDIA-TODO: Map snippet from a Scottish glen showing contour lines forming a spur -->
 
 - * Spur
 - Valley
