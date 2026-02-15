@@ -1,0 +1,17 @@
+{
+  "name": "tutor-lms-validator",
+  "version": "1.0.0",
+  "description": "Validation tools for Tutor LMS Pro course exports",
+  "main": "validate-course.js",
+  "scripts": {
+    "validate": "node validate-course.js",
+    "validate:all": "node validate-course.js --all",
+    "test": "node validate-course.js --all"
+  },
+  "keywords": ["tutor-lms", "validation", "json-schema"],
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.12.0",
+    "ajv-formats": "^2.1.1"
+  }
+}

@@ -1,0 +1,938 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://see-expeditions.org.uk/schemas/tutor-lms-course.schema.json",
+  "title": "Tutor LMS Pro Course Export",
+  "description": "Schema for validating Tutor LMS Pro course export files (schema_version 2.0.0)",
+  "type": "object",
+  "required": ["schema_version", "exported_at", "keep_media_files", "keep_user_data", "data"],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "2.0.0",
+      "description": "Export schema version - must be 2.0.0"
+    },
+    "exported_at": {
+      "type": "string",
+      "description": "Human-readable export timestamp (e.g., '15 February, 2026 12:25')"
+    },
+    "keep_media_files": {
+      "type": "boolean",
+      "description": "Whether media files are included in the export"
+    },
+    "keep_user_data": {
+      "type": "boolean",
+      "description": "Whether user enrollment data is included"
+    },
+    "data": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/ContentWrapper"
+      }
+    }
+  },
+  "$defs": {
+    "ContentWrapper": {
+      "type": "object",
+      "required": ["content_type", "data"],
+      "properties": {
+        "content_type": {
+          "type": "string",
+          "const": "courses",
+          "description": "Content type - always 'courses' for course exports"
+        },
+        "data": {
+          "type": "object",
+          "required": ["course"],
+          "properties": {
+            "course": {
+              "$ref": "#/$defs/Course"
+            }
+          }
+        }
+      }
+    },
+    "Course": {
+      "type": "object",
+      "required": ["ID", "post_author", "post_date", "post_title", "post_status", "post_type", "meta", "taxonomies", "contents"],
+      "properties": {
+        "ID": {
+          "type": "integer",
+          "description": "WordPress post ID"
+        },
+        "post_author": {
+          "type": "string",
+          "description": "WordPress user ID of the author"
+        },
+        "post_date": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2}$",
+          "description": "Post creation date (YYYY-MM-DD HH:MM:SS)"
+        },
+        "post_date_gmt": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2}$"
+        },
+        "post_content": {
+          "type": "string",
+          "description": "HTML content of the course description"
+        },
+        "post_title": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Course title"
+        },
+        "post_excerpt": {
+          "type": "string"
+        },
+        "post_status": {
+          "type": "string",
+          "enum": ["publish", "draft", "pending", "private"],
+          "description": "Publication status"
+        },
+        "comment_status": {
+          "type": "string",
+          "enum": ["open", "closed"]
+        },
+        "ping_status": {
+          "type": "string",
+          "enum": ["open", "closed"]
+        },
+        "post_password": {
+          "type": "string"
+        },
+        "post_name": {
+          "type": "string",
+          "description": "URL slug for the course"
+        },
+        "to_ping": {
+          "type": "string"
+        },
+        "pinged": {
+          "type": "string"
+        },
+        "post_modified": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2}$"
+        },
+        "post_modified_gmt": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2}$"
+        },
+        "post_content_filtered": {
+          "type": "string"
+        },
+        "post_parent": {
+          "type": "integer",
+          "const": 0,
+          "description": "Course posts have no parent (always 0)"
+        },
+        "guid": {
+          "type": "string",
+          "description": "Global unique identifier URL"
+        },
+        "menu_order": {
+          "type": "integer"
+        },
+        "post_type": {
+          "type": "string",
+          "const": "courses",
+          "description": "WordPress post type - must be 'courses'"
+        },
+        "post_mime_type": {
+          "type": "string"
+        },
+        "comment_count": {
+          "type": "string"
+        },
+        "filter": {
+          "type": "string",
+          "const": "raw"
+        },
+        "thumbnail_url": {
+          "oneOf": [
+            { "type": "string", "format": "uri" },
+            { "type": "boolean", "const": false }
+          ],
+          "description": "Course thumbnail image URL or false if none"
+        },
+        "meta": {
+          "$ref": "#/$defs/CourseMeta"
+        },
+        "taxonomies": {
+          "$ref": "#/$defs/Taxonomies"
+        },
+        "contents": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Topic"
+          },
+          "description": "Array of topics (sections) in the course"
+        },
+        "child_posts": {
+          "type": "array",
+          "description": "Child posts (usually empty for courses)"
+        },
+        "attachment_links": {
+          "type": "array",
+          "description": "Attachment links (usually empty)"
+        }
+      }
+    },
+    "CourseMeta": {
+      "type": "object",
+      "required": ["_tutor_course_price_type", "_tutor_course_settings"],
+      "properties": {
+        "_tutor_course_price_type": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["free", "paid"]
+          }
+        },
+        "_tutor_course_settings": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/CourseSettings"
+          }
+        },
+        "_video": {
+          "type": "array",
+          "description": "Course intro video settings"
+        },
+        "_tutor_enable_qa": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["yes", "no"]
+          }
+        },
+        "_tutor_is_public_course": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["yes", "no"]
+          }
+        },
+        "tutor_course_sale_price": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "_course_duration": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Duration"
+          }
+        },
+        "_tutor_course_level": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["all_levels", "beginner", "intermediate", "expert"]
+          }
+        },
+        "_thumbnail_id": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "_eael_post_view_count": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "_tutor_course_started": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "_wp_old_slug": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "_wp_old_date": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "_tutor_course_benefits": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Course benefits/learning outcomes (newline-separated)"
+        },
+        "_tutor_course_target_audience": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "additionalProperties": true
+    },
+    "CourseSettings": {
+      "type": "object",
+      "properties": {
+        "maximum_students": {
+          "type": "integer",
+          "description": "0 = unlimited"
+        },
+        "enrollment_expiry": {
+          "type": "string"
+        },
+        "enable_content_drip": {
+          "type": "integer",
+          "enum": [0, 1]
+        },
+        "content_drip_type": {
+          "type": "string",
+          "enum": ["", "unlock_sequentially", "specific_days", "after_finishing_prerequisites"]
+        },
+        "enable_tutor_bp": {
+          "type": "integer",
+          "enum": [0, 1]
+        },
+        "course_enrollment_period": {
+          "type": "string",
+          "enum": ["yes", "no"]
+        },
+        "enrollment_starts_at": {
+          "type": "string"
+        },
+        "enrollment_ends_at": {
+          "type": "string"
+        },
+        "pause_enrollment": {
+          "type": "string",
+          "enum": ["yes", "no"]
+        }
+      }
+    },
+    "Duration": {
+      "type": "object",
+      "required": ["hours", "minutes"],
+      "properties": {
+        "hours": {
+          "type": "string",
+          "pattern": "^\\d+$"
+        },
+        "minutes": {
+          "type": "string",
+          "pattern": "^\\d+$"
+        }
+      }
+    },
+    "Taxonomies": {
+      "type": "object",
+      "required": ["categories", "tags"],
+      "properties": {
+        "categories": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Category"
+          }
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Tag"
+          }
+        }
+      }
+    },
+    "Category": {
+      "type": "object",
+      "required": ["term_id", "name", "slug", "taxonomy"],
+      "properties": {
+        "term_id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "slug": {
+          "type": "string"
+        },
+        "term_group": {
+          "type": "integer"
+        },
+        "term_taxonomy_id": {
+          "type": "integer"
+        },
+        "taxonomy": {
+          "type": "string",
+          "const": "course-category"
+        },
+        "description": {
+          "type": "string"
+        },
+        "parent": {
+          "type": "integer"
+        },
+        "count": {
+          "type": "integer"
+        },
+        "filter": {
+          "type": "string"
+        }
+      }
+    },
+    "Tag": {
+      "type": "object",
+      "properties": {
+        "term_id": { "type": "integer" },
+        "name": { "type": "string" },
+        "slug": { "type": "string" },
+        "taxonomy": { "type": "string", "const": "course-tag" }
+      }
+    },
+    "Topic": {
+      "type": "object",
+      "required": ["ID", "post_title", "post_type", "post_parent", "children"],
+      "properties": {
+        "ID": {
+          "type": "integer"
+        },
+        "post_author": {
+          "type": "string"
+        },
+        "post_date": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2}$"
+        },
+        "post_date_gmt": {
+          "type": "string"
+        },
+        "post_content": {
+          "type": "string",
+          "description": "Topic description (can be empty)"
+        },
+        "post_title": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Topic/section title"
+        },
+        "post_excerpt": {
+          "type": "string"
+        },
+        "post_status": {
+          "type": "string",
+          "enum": ["publish", "draft", "pending", "private"]
+        },
+        "comment_status": {
+          "type": "string"
+        },
+        "ping_status": {
+          "type": "string"
+        },
+        "post_password": {
+          "type": "string"
+        },
+        "post_name": {
+          "type": "string",
+          "description": "URL slug"
+        },
+        "to_ping": {
+          "type": "string"
+        },
+        "pinged": {
+          "type": "string"
+        },
+        "post_modified": {
+          "type": "string"
+        },
+        "post_modified_gmt": {
+          "type": "string"
+        },
+        "post_content_filtered": {
+          "type": "string"
+        },
+        "post_parent": {
+          "type": "integer",
+          "description": "ID of the parent course"
+        },
+        "guid": {
+          "type": "string"
+        },
+        "menu_order": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Display order (1-based for topics)"
+        },
+        "post_type": {
+          "type": "string",
+          "const": "topics",
+          "description": "Must be 'topics'"
+        },
+        "post_mime_type": {
+          "type": "string"
+        },
+        "comment_count": {
+          "type": "string"
+        },
+        "filter": {
+          "type": "string"
+        },
+        "children": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ContentItem"
+          },
+          "description": "Lessons, quizzes, and assignments within this topic"
+        }
+      }
+    },
+    "ContentItem": {
+      "type": "object",
+      "required": ["ID", "post_title", "post_type", "post_parent"],
+      "properties": {
+        "ID": {
+          "type": "integer"
+        },
+        "post_author": {
+          "type": "string"
+        },
+        "post_date": {
+          "type": "string"
+        },
+        "post_date_gmt": {
+          "type": "string"
+        },
+        "post_content": {
+          "type": "string",
+          "description": "HTML content of the lesson/quiz/assignment"
+        },
+        "post_title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "post_excerpt": {
+          "type": "string"
+        },
+        "post_status": {
+          "type": "string",
+          "enum": ["publish", "draft", "pending", "private"]
+        },
+        "comment_status": {
+          "type": "string"
+        },
+        "ping_status": {
+          "type": "string"
+        },
+        "post_password": {
+          "type": "string"
+        },
+        "post_name": {
+          "type": "string"
+        },
+        "to_ping": {
+          "type": "string"
+        },
+        "pinged": {
+          "type": "string"
+        },
+        "post_modified": {
+          "type": "string"
+        },
+        "post_modified_gmt": {
+          "type": "string"
+        },
+        "post_content_filtered": {
+          "type": "string"
+        },
+        "post_parent": {
+          "type": "integer",
+          "description": "ID of the parent topic"
+        },
+        "guid": {
+          "type": "string"
+        },
+        "menu_order": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Display order within topic (0-based)"
+        },
+        "post_type": {
+          "type": "string",
+          "enum": ["lesson", "tutor_quiz", "tutor_assignments"],
+          "description": "Content type: lesson, quiz, or assignment"
+        },
+        "post_mime_type": {
+          "type": "string"
+        },
+        "comment_count": {
+          "type": "string"
+        },
+        "filter": {
+          "type": "string"
+        },
+        "meta": {
+          "$ref": "#/$defs/ContentItemMeta"
+        },
+        "child_posts": {
+          "type": "array"
+        },
+        "thumbnail_url": {
+          "oneOf": [
+            { "type": "string" },
+            { "type": "boolean", "const": false }
+          ]
+        },
+        "question_answer": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/QuestionAnswer"
+          },
+          "description": "Quiz questions and answers (only for tutor_quiz)"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": { "post_type": { "const": "tutor_quiz" } }
+          },
+          "then": {
+            "properties": {
+              "meta": {
+                "required": ["tutor_quiz_option"]
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": { "post_type": { "const": "tutor_assignments" } }
+          },
+          "then": {
+            "properties": {
+              "meta": {
+                "required": ["assignment_option"]
+              }
+            }
+          }
+        }
+      ]
+    },
+    "ContentItemMeta": {
+      "type": "object",
+      "properties": {
+        "_eael_post_view_count": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "_thumbnail_id": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "_wp_old_slug": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "_video": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/VideoMeta"
+          },
+          "description": "Video settings for lessons"
+        },
+        "_tutor_attachments": {
+          "type": "array",
+          "description": "Attachment IDs for exercise files"
+        },
+        "tutor_quiz_option": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/QuizOptions"
+          },
+          "description": "Quiz configuration (required for tutor_quiz)"
+        },
+        "assignment_option": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/AssignmentOptions"
+          },
+          "description": "Assignment configuration (required for tutor_assignments)"
+        },
+        "_tutor_course_id_for_assignments": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "_tutor_assignment_total_mark": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "_tutor_assignment_pass_mark": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "additionalProperties": true
+    },
+    "VideoMeta": {
+      "oneOf": [
+        { "type": "array", "maxItems": 0 },
+        {
+          "type": "object",
+          "properties": {
+            "source": {
+              "type": "string",
+              "enum": ["youtube", "vimeo", "html5", "external_url", "shortcode", "embedded"]
+            },
+            "source_video_id": { "type": "string" },
+            "poster": { "type": "string" },
+            "poster_url": { "type": "string" },
+            "source_html5": { "type": "string" },
+            "source_external_url": { "type": "string" },
+            "source_shortcode": { "type": "string" },
+            "source_youtube": { "type": "string" },
+            "source_vimeo": { "type": "string" },
+            "source_embedded": { "type": "string" },
+            "runtime": {
+              "type": "object",
+              "properties": {
+                "hours": { "type": "string" },
+                "minutes": { "type": "string" },
+                "seconds": { "type": "string" }
+              }
+            },
+            "duration_sec": { "type": "string" },
+            "playtime": { "type": "string" }
+          }
+        }
+      ]
+    },
+    "QuizOptions": {
+      "type": "object",
+      "properties": {
+        "attempts_allowed": {
+          "type": "string",
+          "description": "0 = unlimited attempts"
+        },
+        "feedback_mode": {
+          "type": "string",
+          "enum": ["default", "reveal", "retry"],
+          "description": "How feedback is shown after quiz"
+        },
+        "hide_question_number_overview": {
+          "type": "string",
+          "enum": ["0", "1"]
+        },
+        "hide_quiz_time_display": {
+          "type": "string",
+          "enum": ["0", "1"]
+        },
+        "max_questions_for_answer": {
+          "type": "string"
+        },
+        "open_ended_answer_characters_limit": {
+          "type": "string"
+        },
+        "pass_is_required": {
+          "type": "string",
+          "enum": ["0", "1"]
+        },
+        "passing_grade": {
+          "type": "string",
+          "description": "Percentage required to pass (e.g., '80')"
+        },
+        "question_layout_view": {
+          "type": "string",
+          "enum": ["single_question", "question_pagination", "question_below_each_other"]
+        },
+        "questions_order": {
+          "type": "string",
+          "enum": ["rand", "sorting", "asc", "desc"]
+        },
+        "quiz_auto_start": {
+          "type": "string",
+          "enum": ["0", "1"]
+        },
+        "short_answer_characters_limit": {
+          "type": "string"
+        },
+        "time_limit": {
+          "type": "object",
+          "properties": {
+            "time_type": {
+              "type": "string",
+              "enum": ["seconds", "minutes", "hours", "days", "weeks"]
+            },
+            "time_value": {
+              "type": "string",
+              "description": "0 = no time limit"
+            }
+          }
+        },
+        "content_drip_settings": {
+          "type": "array"
+        }
+      }
+    },
+    "AssignmentOptions": {
+      "type": "object",
+      "properties": {
+        "time_duration": {
+          "type": "object",
+          "properties": {
+            "time": {
+              "type": "string",
+              "enum": ["seconds", "minutes", "hours", "days", "weeks"]
+            },
+            "value": {
+              "type": "integer",
+              "description": "0 = no time limit"
+            }
+          }
+        },
+        "deadline_from_start": {
+          "type": "string"
+        },
+        "total_mark": {
+          "type": "string"
+        },
+        "pass_mark": {
+          "type": "string"
+        },
+        "upload_files_limit": {
+          "type": "string"
+        },
+        "upload_file_size_limit": {
+          "type": "string",
+          "description": "Size limit in MB"
+        },
+        "is_retry_allowed": {
+          "type": "string",
+          "enum": ["0", "1"]
+        },
+        "attempts_allowed": {
+          "type": "string"
+        }
+      }
+    },
+    "QuestionAnswer": {
+      "type": "object",
+      "required": ["question", "answers"],
+      "properties": {
+        "question": {
+          "$ref": "#/$defs/Question"
+        },
+        "answers": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Answer"
+          },
+          "minItems": 1
+        }
+      }
+    },
+    "Question": {
+      "type": "object",
+      "required": ["question_id", "quiz_id", "question_title", "question_type"],
+      "properties": {
+        "question_id": {
+          "type": "string"
+        },
+        "quiz_id": {
+          "type": "string"
+        },
+        "question_title": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The question text"
+        },
+        "question_description": {
+          "type": "string"
+        },
+        "answer_explanation": {
+          "type": ["string", "null"],
+          "description": "Explanation shown after answering"
+        },
+        "question_type": {
+          "type": "string",
+          "enum": [
+            "true_false",
+            "single_choice",
+            "multiple_choice",
+            "open_ended",
+            "fill_in_the_blank",
+            "short_answer",
+            "matching",
+            "image_matching",
+            "image_answering",
+            "ordering"
+          ]
+        },
+        "question_mark": {
+          "type": "string",
+          "description": "Points for this question"
+        },
+        "question_settings": {
+          "type": "object",
+          "properties": {
+            "answer_required": {
+              "type": "string",
+              "enum": ["0", "1"]
+            },
+            "question_mark": {
+              "type": "string"
+            },
+            "question_type": {
+              "type": "string"
+            },
+            "randomize_question": {
+              "type": "string",
+              "enum": ["0", "1"]
+            },
+            "show_question_mark": {
+              "type": "string",
+              "enum": ["0", "1"]
+            },
+            "has_multiple_correct_answer": {
+              "type": "string",
+              "enum": ["0", "1"]
+            }
+          }
+        },
+        "question_order": {
+          "type": "string"
+        }
+      }
+    },
+    "Answer": {
+      "type": "object",
+      "properties": {
+        "answer_id": {
+          "type": ["string", "null"]
+        },
+        "belongs_question_id": {
+          "type": ["string", "null"]
+        },
+        "belongs_question_type": {
+          "type": ["string", "null"]
+        },
+        "answer_title": {
+          "type": ["string", "null"],
+          "description": "The answer text"
+        },
+        "is_correct": {
+          "type": ["string", "null"],
+          "description": "1 = correct answer, 0 = incorrect"
+        },
+        "image_id": {
+          "type": ["string", "null"]
+        },
+        "image_url": {
+          "type": ["string", "null"]
+        },
+        "answer_two_gap_match": {
+          "type": ["string", "null"]
+        },
+        "answer_view_format": {
+          "type": ["string", "null"]
+        },
+        "answer_settings": {
+          "oneOf": [
+            { "type": "object" },
+            { "type": "null" }
+          ]
+        },
+        "answer_order": {
+          "type": ["string", "null"]
+        }
+      }
+    }
+  }
+}
